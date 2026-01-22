@@ -1,0 +1,4 @@
+D:/code/chess_train/build/CMakeFiles/chess_ai.dir
+D:/code/chess_train/build/CMakeFiles/trainer.dir
+D:/code/chess_train/build/CMakeFiles/edit_cache.dir
+D:/code/chess_train/build/CMakeFiles/rebuild_cache.dir

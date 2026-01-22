@@ -1,0 +1,4198 @@
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:09"]
+[GameEndTime "2026-01-10T19:46:07.211 台北標準時間"]
+[GameStartTime "2026-01-10T19:45:57.555 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.10/19 1.2s} 2. Rb1 Nf6 {+0.19/19 1.5s} 3. Ra1 e5 {+0.59/19 1.1s}
+4. Rb1 Be7 {+1.55/18 0.87s} 5. Ra1 d5 {+1.47/18 1.0s} 6. Nxd5
+Qxd5 {+5.43/20 1.2s} 7. Rb1 c5 {+6.46/19 0.62s} 8. Ra1 Nc6 {+5.31/20 1.7s}
+9. Rb1 O-O {+6.76/17 0.39s, White makes an illegal move: d5d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:19"]
+[GameEndTime "2026-01-10T19:46:17.408 台北標準時間"]
+[GameStartTime "2026-01-10T19:45:57.538 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "23"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.6s} a6 2. d4 {+0.65/15 0.35s} a5 3. Be2 {+1.49/19 1.6s} a4
+4. Nf3 {+1.37/20 2.0s} a3 5. b4 {+2.10/18 1.2s} b6 6. Bxa3 {+2.28/21 2.4s} Rxa3
+7. Nxa3 {+3.68/19 1.2s} b5 8. c3 {+4.91/19 1.1s} c6 9. e5 {+4.60/18 0.96s} c5
+10. bxc5 {+5.53/19 1.9s} b4 11. cxb4 {+5.60/19 2.1s} d6
+12. O-O {+7.08/21 2.4s, Black makes an illegal move: c5d6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:30"]
+[GameEndTime "2026-01-10T19:46:28.337 台北標準時間"]
+[GameStartTime "2026-01-10T19:45:57.562 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "34"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 e6 {+3.45/20 1.5s} 3. Nxc7+
+Qxc7 {+3.00/23 1.6s} 4. Rb1 Nf6 {+3.52/20 1.2s} 5. Ra1 e5 {+3.91/21 2.3s} 6. Rb1
+Bd6 {+4.33/19 1.3s} 7. Ra1 Be6 {+4.42/20 1.7s} 8. Rb1 Be7 {+5.18/18 0.82s}
+9. Ra1 Bd6 {+4.50/21 5.2s} 10. Rb1 a6 {+4.94/18 0.73s} 11. Ra1
+b5 {+4.75/20 1.9s} 12. Rb1 Bxa2 {+5.32/18 1.1s} 13. Ra1 Bd5 {+4.95/20 2.9s}
+14. Rxa6 Nbd7 {+6.89/19 3.5s} 15. Rxa8+ Bxa8 {+4.17/20 0.94s} 16. Nh3
+Bb7 {+4.59/18 1.2s} 17. Rg1
+O-O {+4.96/18 1.7s, White makes an illegal move: b7g2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:33"]
+[GameEndTime "2026-01-10T19:46:31.100 台北標準時間"]
+[GameStartTime "2026-01-10T19:45:57.571 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "37"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.35/21 2.6s} a6 2. e3 {+0.73/18 0.46s} a5 3. Nd2 {+0.86/18 0.80s} a4
+4. e4 {+0.56/23 4.3s} a3 5. Bd3 {+0.75/17 0.85s} axb2 6. Bxb2 {+0.56/19 1.4s}
+Rxa2 7. Rxa2 {+5.66/20 1.7s} b6 8. Ra8 {+5.93/21 1.7s} b5
+9. Rxb8 {+7.19/18 0.46s} b4 10. Ne2 {+7.67/22 3.4s} b3 11. Rb5 {+8.05/19 0.43s}
+bxc2 12. Qxc2 {+7.04/21 1.4s} c6 13. Rg5 {+7.44/19 0.61s} c5
+14. d5 {+7.45/23 3.8s} c4 15. Nxc4 {+7.75/19 1.0s} d6 16. Bc3 {+8.51/22 1.9s} e6
+17. Rg3 {+8.80/20 1.1s} exd5 18. Nb6 {+8.45/21 2.5s} Qxb6
+19. Qa4+ {+7.31/21 3.1s, Black makes an illegal move: d5e4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:22"]
+[GameEndTime "2026-01-10T19:46:29.607 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:07.215 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.10/19 1.1s} 2. Rb1 e5 {+0.50/19 1.2s} 3. Ra1 a6 {+1.32/16 0.50s}
+4. Rb1 d5 {+1.65/18 1.2s} 5. Nxd5 Qxd5 {+4.86/21 3.0s} 6. Ra1
+Qd8 {+5.00/19 1.6s} 7. Rb1 Qd5 {+5.34/19 1.1s} 8. Ra1 a5 {+4.84/21 3.9s} 9. Rb1
+Be7 {+5.91/18 0.49s} 10. Ra1 e4 {+5.45/18 1.4s} 11. Rb1 Qd7 {+6.37/17 0.86s}
+12. Ra1 Nc6 {+5.66/16 0.93s} 13. Rb1
+O-O {+5.67/20 5.1s, White makes an illegal move: d7d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T19:46:32.986 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:17.411 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "11"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.5s} a6 2. Nc3 {+0.76/18 1.2s} a5 3. Bc4 {+1.48/18 2.1s} a4
+4. Nf3 {+1.51/20 2.5s} a3 5. Qe2 {+1.08/19 5.3s} axb2
+6. Bxf7+ {+1.10/18 0.97s, Black makes an illegal move: b2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T19:46:46.083 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:28.341 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.1s} 2. Rb1 d5 {+0.22/17 0.61s} 3. Nxd5
+cxd5 {+4.47/20 1.4s} 4. Ra1 e5 {+5.39/18 0.51s} 5. Rb1 Nc6 {+5.29/21 3.4s}
+6. Ra1 a6 {+5.62/18 1.7s} 7. Rb1 h6 {+5.71/18 1.6s} 8. Ra1 Bc5 {+5.82/17 0.99s}
+9. Rb1 Nf6 {+5.81/19 3.6s} 10. Ra1 Ne4 {+6.40/18 2.1s} 11. Rb1
+Bxf2# {+M1/23 0.65s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T19:46:40.057 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:29.611 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "11"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.35/21 2.8s} a6 2. e4 {+0.72/16 0.34s} a5 3. Nc3 {+1.40/19 2.2s} a4
+4. Nf3 {+1.57/18 2.2s} a3 5. Bc4 {+1.63/16 0.98s} axb2
+6. Ne5 {+1.18/18 1.9s, Black makes an illegal move: b2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T19:46:55.847 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:31.105 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "30"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.2s} 2. Rb1 c5 {+0.42/15 0.78s} 3. Ra1 d5 {+1.09/16 0.51s}
+4. Nxd5 Qxd5 {+4.64/21 1.9s} 5. Rb1 h5 {+5.49/20 1.1s} 6. Ra1 e5 {+4.34/23 6.0s}
+7. Rb1 Be7 {+6.01/19 0.93s} 8. Ra1 e4 {+5.67/22 4.7s} 9. Rb1
+Be6 {+6.88/18 0.39s} 10. Ra1 Bd7 {+6.11/20 3.2s} 11. Rb1 Nc6 {+6.78/17 0.43s}
+12. Ra1 Ng4 {+6.28/18 1.5s} 13. Rb1 Be6 {+7.41/19 0.66s} 14. Ra1
+Bh4 {+7.76/18 1.0s} 15. Rb1 Bxf2# {+M1/23 0.40s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T19:46:43.953 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:32.988 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "11"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.3s} a6 2. e4 {+0.42/20 1.6s} a5 3. Nc3 {+1.19/18 0.82s} a4
+4. f4 {+1.50/17 1.1s} a3 5. d4 {+1.15/19 2.9s} axb2
+6. Rb1 {+1.15/20 1.2s, Black makes an illegal move: b2c1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:13"]
+[GameEndTime "2026-01-10T19:46:53.355 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:40.061 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "16"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {-0.05/17 1.2s} 2. Nxd5 e6 {+3.89/20 1.5s} 3. Nxc7+
+Qxc7 {+2.87/23 1.7s} 4. Rb1 e5 {+3.65/21 2.5s} 5. Ra1 Be7 {+3.85/19 0.98s}
+6. Rb1 Bc5 {+4.29/21 1.9s} 7. Ra1 Nf6 {+4.04/21 2.5s} 8. Rb1
+O-O {+4.63/19 1.0s, White makes an illegal move: c5f2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T19:46:59.339 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:43.957 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "15"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.6s} a6 2. e3 {+0.55/17 0.91s} a5 3. Nc3 {+0.86/18 1.1s} a4
+4. a3 {+1.56/20 1.9s} b6 5. d4 {+1.76/20 1.7s} b5 6. cxb5 {+3.44/17 0.44s} c6
+7. Nf3 {+3.19/23 5.6s} cxb5
+8. Bxb5 {+3.60/19 1.1s, Black makes an illegal move: d7d6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T19:47:11.230 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:46.087 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.3s} 2. Nxd5 c6 {+3.83/21 1.4s} 3. Nxe7
+Bxe7 {+3.07/18 0.49s} 4. Rb1 a5 {+3.38/21 3.1s} 5. Ra1 c5 {+3.65/19 1.1s} 6. Rb1
+a4 {+3.78/20 2.0s} 7. Ra1 Nc6 {+3.94/19 1.1s} 8. Rb1 h6 {+4.28/18 1.5s} 9. Ra1
+Be6 {+4.30/18 1.4s} 10. Rb1 Nf6 {+5.25/18 0.81s} 11. Ra1 a3 {+4.69/21 5.3s}
+12. bxa3 Bd7 {+4.45/18 2.1s} 13. Rb1
+O-O {+3.87/20 3.5s, White makes an illegal move: a8a3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T19:47:16.489 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:53.359 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "33"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.6s} a6 2. c4 {+0.19/23 2.0s} a5 3. h3 {+0.81/19 1.3s} a4
+4. Be2 {+1.38/17 0.97s} a3 5. Nxa3 {+1.41/20 2.7s} Rxa3 6. bxa3 {+3.23/21 1.4s}
+b6 7. d4 {+3.45/19 2.1s} b5 8. Rb1 {+4.61/21 1.5s} bxc4 9. Qc2 {+5.34/21 0.99s}
+c3 10. Rb3 {+5.48/18 0.48s} c6 11. Rxb8 {+5.31/18 0.57s} c5
+12. e4 {+6.48/21 1.3s} cxd4 13. h4 {+6.40/19 1.5s} d3 14. Qxd3 {+8.24/21 0.90s}
+c2 15. Qxc2 {+8.43/19 0.65s} d6 16. Rxc8 {+M9/42 0.49s} Qxc8
+17. Qxc8# {+M1/20 1.6s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T19:47:20.650 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:55.851 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "32"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 Bc5 {+0.84/14 0.57s} 3. Ra1 Nc6 {+0.67/20 3.5s}
+4. Rb1 Bb6 {+1.63/21 1.8s} 5. Ra1 d5 {+1.70/18 1.3s} 6. Nxd5
+Qxd5 {+4.82/19 1.2s} 7. Rb1 h5 {+6.16/18 0.57s} 8. Ra1 Nge7 {+5.49/19 1.8s}
+9. Rb1 a5 {+6.59/17 0.42s} 10. Ra1 a4 {+5.81/20 4.6s} 11. Rb1
+Qxa2 {+7.06/18 0.54s} 12. Ra1 Qxa1 {+7.44/20 1.5s} 13. Nh3 Qa2 {+7.98/21 1.2s}
+14. Rg1 Bg4 {+8.79/22 2.8s} 15. Rh1 Qe6 {+9.43/20 0.86s} 16. Rg1
+O-O {+9.19/20 0.98s, White makes an illegal move: g4h3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T19:47:35.089 台北標準時間"]
+[GameStartTime "2026-01-10T19:46:59.342 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "37"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.6s} a6 2. c3 {+0.66/14 0.36s} a5 3. d4 {+0.97/15 0.52s} a4
+4. Be2 {+2.03/17 1.1s} a3 5. Bd3 {+2.17/20 2.6s} axb2 6. Bxb2 {+0.35/20 1.0s}
+Rxa2 7. Rxa2 {+5.37/20 1.8s} b6 8. Bc1 {+5.71/20 2.1s} b5 9. Kf1 {+5.82/20 4.7s}
+b4 10. cxb4 {+5.47/19 4.0s} c6 11. Rb2 {+5.69/18 1.9s} c5 12. b5 {+6.07/20 2.4s}
+cxd4 13. Nf3 {+4.93/20 3.8s} d6 14. Rc2 {+5.30/18 2.3s} d5
+15. Qe2 {+5.53/18 1.1s} dxe4 16. Qxe4 {+5.10/19 1.7s} e6 17. b6 {+5.36/20 0.86s}
+Qxb6 18. Qa8 {+8.34/19 0.46s} Qxb1
+19. Rxc8+ {+13.22/19 0.44s, Black makes an illegal move: b1c1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:09"]
+[GameEndTime "2026-01-10T19:47:20.795 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:11.233 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "12"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 e6 {+3.50/21 1.6s} 3. Nxc7+
+Qxc7 {+3.07/24 1.6s} 4. Rb1 Nf6 {+3.57/20 2.2s} 5. Ra1 Be7 {+3.95/20 1.5s}
+6. Rb1 O-O {+4.34/20 1.5s, White makes an illegal move: c7c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:28"]
+[GameEndTime "2026-01-10T19:47:45.358 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:16.492 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "33"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.6s} a6 2. e4 {+0.55/18 0.86s} a5 3. Nc3 {+1.29/20 2.0s} a4
+4. Be2 {+1.53/17 0.78s} a3 5. Nf3 {+1.12/20 4.4s} axb2 6. Bxb2 {+1.22/19 1.2s}
+Rxa2 7. Rxa2 {+6.14/20 1.1s} b6 8. e5 {+6.38/23 3.3s} b5 9. c5 {+6.55/19 1.2s}
+b4 10. Ne4 {+6.23/21 2.4s} b3 11. Qxb3 {+6.65/20 0.86s} c6
+12. Ra4 {+9.19/21 1.7s} d6 13. cxd6 {+8.80/20 1.9s} exd6
+14. exd6 {+8.81/21 2.4s} Qxd6 15. Nxd6+ {+9.22/21 1.2s} Bxd6
+16. Ng5 {+9.65/20 0.70s} Bxh2
+17. Qxf7+ {+M11/20 0.29s, Black makes an illegal move: e8f7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T19:47:46.562 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:20.654 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.83/21 1.4s} 3. Rb1
+Qxa2 {+4.96/20 1.2s} 4. Ra1 Qxa1 {+6.01/21 1.7s} 5. Nh3 e5 {+6.71/21 1.7s}
+6. Rg1 Nf6 {+6.98/20 2.2s} 7. Rh1 Nc6 {+7.42/19 1.1s} 8. Rg1 Qa5 {+7.68/19 2.0s}
+9. Rh1 h5 {+7.82/23 3.5s} 10. Rg1 Be7 {+7.81/20 3.5s} 11. Rh1
+Rg8 {+7.90/20 2.2s} 12. Rg1 Bg4 {+8.41/19 0.76s} 13. Rh1
+O-O-O {+8.05/20 3.4s, White makes an illegal move: g4h3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T19:47:35.357 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:20.798 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "21"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.8s} a6 2. Nc3 {+0.19/23 1.6s} a5 3. d4 {+0.88/16 0.36s} a4
+4. Nf3 {+0.86/17 0.53s} a3 5. b3 {+0.94/20 2.9s} b6 6. Bd3 {+1.11/18 1.1s} b5
+7. Nxb5 {+2.54/18 0.57s} c6 8. Ne5 {+2.59/19 1.8s} cxb5 9. Bd2 {+4.26/19 1.7s}
+b4 10. Qh5 {+4.78/18 0.56s} d6 11. Qxf7# {+M1/18 0.53s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:31"]
+[GameEndTime "2026-01-10T19:48:06.871 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:35.093 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "34"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 Qxd5 {+3.50/21 1.5s} 3. Rb1
+Nc6 {+5.01/20 1.1s} 4. Ra1 Nf6 {+4.55/20 1.9s} 5. Rb1 Qd8 {+6.11/18 0.68s}
+6. Ra1 g6 {+5.07/20 3.3s} 7. Rb1 Bf5 {+5.08/18 0.66s} 8. Ra1 h5 {+4.83/18 0.58s}
+9. Rb1 h4 {+5.32/16 0.67s} 10. Ra1 a6 {+5.30/22 5.6s} 11. Rb1 e5 {+5.59/18 1.1s}
+12. Ra1 Bg7 {+5.71/19 4.8s} 13. Rb1 e4 {+6.17/18 1.7s} 14. Ra1
+Qe7 {+6.27/17 2.3s} 15. Rb1 Rd8 {+6.78/17 1.1s} 16. Ra1 e3 {+6.65/18 2.7s}
+17. dxe3 O-O {+9.81/20 1.1s, White makes an illegal move: d8d1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:30"]
+[GameEndTime "2026-01-10T19:48:05.952 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:35.360 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "31"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/22 3.4s} a6 2. c4 {+0.81/16 0.33s} a5 3. Nf3 {+1.20/22 2.4s} a4
+4. e4 {+1.53/20 2.7s} a3 5. h3 {+2.32/18 0.98s} axb2 6. Bxb2 {+1.01/19 1.4s}
+Rxa2 7. Rxa2 {+5.80/20 1.8s} b6 8. Bc1 {+5.91/22 5.1s} b5 9. Nc3 {+6.27/18 1.1s}
+bxc4 10. Qc2 {+6.34/18 1.4s} c6 11. Ne5 {+6.23/19 2.0s} c5
+12. Nd5 {+5.86/19 3.7s} cxd4 13. Ra7 {+7.43/19 2.0s} c3
+14. Nc7+ {+8.94/19 0.98s} Qxc7 15. Rxc7 {+8.80/18 0.94s} d3
+16. Rxc8# {+M1/45 0.34s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T19:48:00.136 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:45.362 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 d5 {+0.42/15 0.74s} 3. Nxd5
+Qxd5 {+4.26/21 2.4s} 4. Ra1 Nc6 {+4.54/20 2.2s} 5. Rb1 Qxa2 {+5.94/19 0.47s}
+6. Ra1 Qxa1 {+6.84/21 1.5s} 7. Nh3 Qb1 {+7.43/20 2.0s} 8. Rg1
+Bd7 {+8.05/20 1.1s} 9. Rh1 Nd4 {+8.25/20 1.1s} 10. Rg1 Nxc2+ {+10.93/18 0.49s}
+11. Qxc2 Qxc2 {+11.04/20 1.7s, White makes an illegal move: e1d1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:29"]
+[GameEndTime "2026-01-10T19:48:15.989 台北標準時間"]
+[GameStartTime "2026-01-10T19:47:46.566 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "33"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.4s} a6 2. Qe2 {+0.19/21 1.7s} a5 3. e4 {+0.33/18 0.70s} a4
+4. a3 {+0.76/17 1.1s} b6 5. f4 {+0.84/17 1.0s} b5 6. f5 {+1.10/19 2.0s} b4
+7. Nf3 {+1.79/17 0.61s} bxa3 8. bxa3 {+1.23/19 2.2s} c6 9. Bb2 {+1.23/19 5.0s}
+c5 10. Ne5 {+2.03/19 2.9s} c4 11. Nxc4 {+3.72/17 0.75s} d6
+12. Qe3 {+2.87/19 1.8s} Bxf5 13. exf5 {+5.14/18 0.50s} d5
+14. Nb6 {+5.84/20 4.1s} Qxb6 15. Qxb6 {+8.23/19 0.82s} d4
+16. Qb7 {+11.71/19 0.46s} d3 17. Qc8# {+M1/23 0.46s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:33"]
+[GameEndTime "2026-01-10T19:48:33.829 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:00.140 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "34"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.2s} 2. Rb1 e5 {+0.42/15 0.77s} 3. Ra1 d5 {+1.04/15 0.57s}
+4. Nxd5 Qxd5 {+4.54/20 1.6s} 5. Rb1 Be6 {+5.83/18 0.76s} 6. Ra1
+Bd6 {+5.11/21 4.9s} 7. Rb1 Be7 {+6.76/18 0.37s} 8. Ra1 Qc6 {+5.30/20 3.9s}
+9. Rb1 Qd5 {+5.48/19 2.0s} 10. Ra1 Qd6 {+5.36/19 2.5s} 11. Rb1
+a5 {+5.55/19 2.1s} 12. Ra1 Nc6 {+5.75/19 1.4s} 13. Rb1 Qd7 {+6.03/18 1.0s}
+14. Ra1 a4 {+5.95/20 2.5s} 15. Rb1 h5 {+6.38/18 1.2s} 16. Ra1 g5 {+6.19/19 3.8s}
+17. Rb1 O-O-O {+6.00/19 3.0s, White makes an illegal move: e6a2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T19:48:32.971 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:05.955 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "31"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.9s} a6 2. Nc3 {+0.19/23 1.6s} a5 3. Nb5 {+0.88/16 0.37s} a4
+4. b3 {+0.43/19 0.88s} axb3 5. g3 {-0.37/21 1.4s} bxa2 6. Bb2 {-1.20/22 5.7s} b6
+7. Be5 {-0.69/18 0.89s} c6 8. Nc7+ {+4.90/19 1.0s} Qxc7 9. Bxc7 {+4.95/20 1.4s}
+b5 10. c3 {+5.37/22 1.7s} b4 11. Bg2 {+4.87/21 1.8s} bxc3
+12. dxc3 {+4.96/21 1.8s} c5 13. Kd2 {+7.13/18 0.47s} c4 14. Qc2 {+6.45/22 1.3s}
+d6 15. Bxb8 {+6.87/20 0.64s} Rxb8
+16. Qa4+ {+6.01/22 3.2s, Black makes an illegal move: d6d5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:36"]
+[GameEndTime "2026-01-10T19:48:43.092 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:06.875 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "44"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.50/21 1.6s} 3. Rb1
+Qxa2 {+5.01/20 1.3s} 4. Ra1 Qxa1 {+6.00/23 1.5s} 5. Nh3 Bd7 {+6.74/20 1.1s}
+6. Rg1 Na6 {+6.82/20 3.4s} 7. Rh1 e5 {+7.28/20 1.9s} 8. Rg1 g6 {+7.62/18 1.1s}
+9. Rh1 f6 {+7.45/19 1.4s} 10. Rg1 Be7 {+7.84/19 1.7s} 11. Rh1
+Bxh3 {+7.86/20 1.9s} 12. gxh3 Nb4 {+7.16/22 3.7s} 13. Bg2 c6 {+7.36/19 0.72s}
+14. Bxc6+ bxc6 {+8.68/21 1.4s} 15. Kf1 Rb8 {+8.49/22 4.2s} 16. Qe1
+a5 {+9.25/18 0.62s} 17. Qd1 Bd6 {+8.62/21 2.9s} 18. Qe1 Nxc2 {+9.39/20 0.77s}
+19. Qd1 Qa4 {+9.21/20 1.0s} 20. Qxc2 Qxc2 {+11.35/20 1.0s} 21. Kg1
+Qb1 {+11.85/20 0.90s} 22. Kg2
+Qe4+ {+12.80/19 0.85s, White makes an illegal move: h1g1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T19:48:33.241 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:15.992 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "21"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.4s} a6 2. Nf3 {+0.19/21 1.5s} a5 3. a3 {+0.86/17 0.43s} a4
+4. c4 {+1.40/22 2.1s} b6 5. Bd3 {+1.89/18 0.94s} b5 6. Be4 {+2.82/17 0.35s} bxc4
+7. Bxa8 {+3.90/21 1.6s} c3 8. dxc3 {+5.24/20 1.8s} c6 9. Qxa4 {+4.50/21 2.7s} c5
+10. Bd5 {+5.80/20 1.7s} c4
+11. Bxc4 {+6.15/19 0.75s, Black makes an illegal move: d7d6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:32"]
+[GameEndTime "2026-01-10T19:49:05.756 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:32.975 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "32"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 d5 {+0.87/14 0.47s} 3. Nxd5
+Qxd5 {+4.48/20 1.4s} 4. Ra1 Nf6 {+4.60/22 3.1s} 5. Rb1 Qd6 {+6.01/18 0.94s}
+6. Ra1 Qd8 {+5.00/22 5.7s} 7. Rb1 a5 {+5.16/20 1.8s} 8. Ra1 Be6 {+5.29/19 3.3s}
+9. Rb1 Bc5 {+5.45/18 0.94s} 10. Ra1 a4 {+5.49/19 4.5s} 11. Rb1
+e4 {+6.04/17 0.73s} 12. Ra1 Qe7 {+5.94/18 1.7s} 13. Rb1 Nc6 {+6.22/17 1.1s}
+14. Ra1 h5 {+6.52/18 2.4s} 15. Rb1 h4 {+6.74/17 1.3s} 16. Ra1
+O-O-O {+6.53/19 2.2s, White makes an illegal move: c5f2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T19:48:51.358 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:33.244 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "21"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/22 3.4s} a6 2. e4 {+0.81/16 0.37s} a5 3. Nc3 {+1.50/17 1.1s} a4
+4. a3 {+1.69/20 3.4s} b6 5. Nf3 {+2.17/18 1.5s} b5 6. Bxb5 {+3.50/17 0.44s} c6
+7. Bxa4 {+3.55/19 1.8s} Rxa4 8. e5 {+5.11/18 1.5s} Rxa3 9. Rxa3 {+4.57/20 1.3s}
+c5 10. d5 {+5.43/19 1.2s} c4
+11. O-O {+5.43/18 2.0s, Black makes an illegal move: c1d2} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:34"]
+[GameEndTime "2026-01-10T19:49:08.680 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:33.833 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "48"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 c5 {+0.42/15 0.63s} 3. Ra1 d5 {+1.09/16 0.50s}
+4. Nxd5 Qxd5 {+4.64/21 1.7s} 5. Rb1 Qd8 {+5.44/21 1.4s} 6. Ra1
+Nc6 {+5.07/20 1.3s} 7. Rb1 a6 {+5.39/18 1.2s} 8. Ra1 g6 {+5.44/19 1.1s} 9. Rb1
+Qc7 {+5.46/19 1.7s} 10. Ra1 Bf5 {+5.40/18 1.8s} 11. Rb1 Rd8 {+5.94/18 1.3s}
+12. Ra1 Nd4 {+6.20/19 1.8s} 13. Rb1 c4 {+7.93/18 0.66s} 14. Ra1
+Nxc2+ {+8.04/21 2.7s} 15. Qxc2 Bh6 {+7.90/20 1.1s} 16. Qxf5
+Bxd2+ {+6.51/21 2.1s} 17. Bxd2 gxf5 {+6.06/19 1.5s} 18. Rb1 Rg8 {+7.42/20 1.7s}
+19. Rc1 Qb6 {+8.27/22 4.2s} 20. Rxc4 Ne4 {+9.25/22 2.5s} 21. Rxe4
+fxe4 {+8.79/21 2.1s} 22. Kd1 Rg4 {+M3/38 0.29s} 23. Ke1 Qxb2 {+M9/39 0.38s}
+24. Kd1 Qb1# {+M1/245 0.016s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T19:49:06.258 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:43.095 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "27"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 3.3s} a6 2. c4 {+0.19/19 0.96s} a5 3. h3 {+0.77/19 1.3s} a4
+4. Nc3 {+1.27/18 2.1s} a3 5. bxa3 {+1.05/18 1.0s} Rxa3 6. Bxa3 {+5.78/17 0.51s}
+b6 7. Nf3 {+5.69/21 3.9s} b5 8. Nd4 {+6.47/18 1.3s} bxc4 9. Rb1 {+6.60/22 2.9s}
+c6 10. Rxb8 {+7.21/18 0.37s} c5 11. Nde2 {+8.18/21 1.6s} d6
+12. Rb1 {+M9/19 0.34s} Bxh3 13. Ng3 {+8.61/21 3.2s} Bxg2
+14. Qa4+ {+M5/20 0.33s, Black makes an illegal move: g2h1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:31"]
+[GameEndTime "2026-01-10T19:49:22.512 台北標準時間"]
+[GameStartTime "2026-01-10T19:48:51.361 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "38"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {0.00/18 1.2s} 2. Rb1 Nc6 {+0.89/15 0.53s} 3. Ra1 Nf6 {+1.37/15 0.56s}
+4. Rb1 d5 {+2.10/15 0.50s} 5. Nxd5 Qxd5 {+5.03/20 2.6s} 6. Ra1
+Bg4 {+4.99/22 6.0s} 7. Rb1 Be6 {+6.68/16 0.35s} 8. Ra1 a5 {+5.16/20 4.7s} 9. Rb1
+b5 {+6.88/17 0.36s} 10. Ra1 h6 {+5.46/21 4.8s} 11. Rb1 Be7 {+6.37/17 0.82s}
+12. Ra1 Bf5 {+5.92/18 1.3s} 13. Rb1 Nb4 {+6.57/18 1.5s} 14. Ra1
+Bxc2 {+8.02/20 0.86s} 15. Qxc2 Rd8 {+9.50/19 1.1s} 16. Qxc7 Qe4 {+6.15/20 1.8s}
+17. Qxd8+ Kxd8 {+6.70/21 1.5s} 18. Rb1 Qxb1 {+10.97/17 0.30s} 19. Kd1
+Qc2+ {+M3/20 0.41s, White makes an illegal move: d1c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T19:49:29.061 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:05.760 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "27"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.6s} a6 2. Nf3 {+0.55/17 0.80s} a5 3. e4 {+1.20/18 0.86s} a4
+4. d4 {+1.57/18 0.77s} a3 5. bxa3 {+2.20/18 1.0s} Rxa3 6. Bxa3 {+5.67/19 1.2s}
+b6 7. Nc3 {+5.83/19 2.1s} b5 8. c5 {+6.72/19 1.5s} b4 9. Bxb4 {+6.19/19 1.5s} c6
+10. Qb1 {+7.08/18 1.6s} d6 11. a3 {+6.52/20 3.3s} dxc5 12. Bxc5 {+6.15/22 4.9s}
+Qxd4 13. Bxd4 {+10.15/20 0.73s} c5
+14. Bb5+ {+M13/20 0.36s, Black makes an illegal move: c5d4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:16"]
+[GameEndTime "2026-01-10T19:49:22.772 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:06.262 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.50/21 1.6s} 3. Rb1 e5 {+5.00/19 1.1s}
+4. Ra1 a5 {+4.69/22 3.4s} 5. Rb1 Be7 {+5.23/18 0.84s} 6. Ra1 Nc6 {+5.22/19 1.8s}
+7. Rb1 Nf6 {+6.13/18 0.75s} 8. Ra1 Qe6 {+5.52/20 5.5s} 9. Rb1
+O-O {+7.22/17 0.39s, White makes an illegal move: e6a2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:22"]
+[GameEndTime "2026-01-10T19:49:31.014 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:08.683 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "24"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.7s} a6 2. Nc3 {+0.19/23 1.8s} a5 3. d4 {+0.85/17 0.38s} a4
+4. Nf3 {+0.96/17 1.3s} a3 5. b3 {+0.81/23 3.8s} b6 6. e4 {+1.13/21 2.2s} b5
+7. Nxb5 {+2.64/18 0.92s} c6 8. Nc3 {+2.45/18 1.1s} c5 9. dxc5 {+3.32/20 1.8s} d6
+10. cxd6 {+4.87/18 0.85s} exd6 11. Qd5 {+4.47/20 2.3s} f6
+12. Nd4 {+7.17/20 2.4s} f5 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:08"]
+[GameEndTime "2026-01-10T19:49:31.014 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:22.517 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "11"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.83/21 1.5s} 3. Rb1 e5 {+4.85/19 1.0s}
+4. Ra1 Qd6 {+4.63/20 2.3s} 5. Rb1 Qd8 {+4.75/19 1.2s} 6. Ra1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:05"]
+[GameEndTime "2026-01-10T19:49:28.052 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:22.775 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "7"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.9s} a6 2. Nf3 {+0.66/14 0.33s} a5 3. Be2 {+1.49/18 1.1s} a4
+4. O-O {+1.46/18 0.97s, Black makes an illegal move: b1c3} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:02"]
+[GameEndTime "2026-01-10T19:49:31.014 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:28.056 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "5"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 d5 {+0.42/15 0.73s} 3. Nxd5 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[GameDuration "00:00:01"]
+[GameEndTime "2026-01-10T19:49:31.014 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:29.066 台北標準時間"]
+[PlyCount "0"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+{No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:13"]
+[GameEndTime "2026-01-10T19:50:11.618 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:58.432 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.1s} 2. Rb1 Nf6 {+0.22/17 0.49s} 3. Ra1 e5 {+0.81/17 0.54s}
+4. Rb1 d5 {+1.49/17 0.55s} 5. Nxd5 Qxd5 {+5.33/22 1.8s} 6. Ra1
+e4 {+5.05/20 2.6s} 7. Rb1 Bd6 {+6.55/18 0.43s} 8. Ra1 Be6 {+5.35/22 2.5s} 9. Rb1
+Qf5 {+6.56/18 0.44s} 10. Ra1 Ng4 {+5.68/20 2.4s} 11. Rb1
+Qxf2# {+M1/40 0.41s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:28"]
+[GameEndTime "2026-01-10T19:50:26.443 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:58.410 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "35"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.1s} a6 2. Nc3 {+0.75/19 0.96s} a5 3. Bc4 {+1.51/19 1.7s} a4
+4. Nge2 {+1.43/20 3.1s} a3 5. b4 {+1.06/20 3.9s} b6 6. d4 {+1.77/17 1.1s} b5
+7. Bxb5 {+3.32/18 0.92s} c6 8. Bd3 {+2.95/19 1.7s} c5 9. b5 {+4.30/19 1.2s} cxd4
+10. Nxd4 {+2.92/18 0.94s} d6 11. Be3 {+3.67/20 1.6s} d5 12. b6 {+4.57/19 1.1s}
+dxe4 13. Bxe4 {+5.98/18 0.81s} Qxd4 14. Bxd4 {+8.62/19 1.1s} e6
+15. Bxa8 {+8.75/20 1.4s} e5 16. Bxe5 {+9.40/20 1.1s} f6 17. Qe2 {+10.18/20 1.3s}
+fxe5 18. Qxe5+ {+10.27/21 0.98s, Black makes an illegal move: g7g6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:50:18.873 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:58.410 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 Qxd5 {+3.50/21 1.4s} 3. Rb1
+Qxa2 {+5.01/20 0.99s} 4. Ra1 Qxa1 {+6.07/21 1.5s} 5. Nh3 c6 {+6.64/21 1.7s}
+6. Rg1 e5 {+6.94/21 4.0s} 7. Rh1 Nf6 {+7.42/20 1.3s} 8. Rg1 a6 {+7.45/20 2.8s}
+9. Rh1 b5 {+7.48/20 2.0s} 10. Rg1 Be7 {+7.15/20 2.3s} 11. Rh1
+O-O {+7.27/18 1.3s, White makes an illegal move: a1c1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T19:50:23.173 台北標準時間"]
+[GameStartTime "2026-01-10T19:49:58.427 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "23"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.0s} a6 2. Nf3 {+0.75/19 0.93s} a5 3. d4 {+1.48/21 2.8s} a4
+4. a3 {+1.54/20 3.0s} b6 5. Bb5 {+2.13/19 1.3s} c6 6. Be2 {+1.86/20 2.1s} b5
+7. Nc3 {+2.00/19 2.5s} b4 8. axb4 {+3.49/18 0.98s} a3 9. bxa3 {+4.60/17 0.54s}
+Rxa3 10. Bxa3 {+6.87/22 4.3s} c5 11. dxc5 {+7.29/18 0.72s} d6
+12. Bb5+ {+8.11/20 2.5s, Black makes an illegal move: d6c5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:12"]
+[GameEndTime "2026-01-10T19:50:24.518 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:11.622 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "14"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 e5 {+3.83/21 1.6s} 3. Nxc7+
+Qxc7 {+3.59/22 1.5s} 4. Rb1 Nf6 {+3.89/20 3.5s} 5. Ra1 Nc6 {+4.22/19 2.0s}
+6. Rb1 Bd6 {+4.57/18 1.4s} 7. Ra1
+O-O {+4.90/19 1.7s, White makes an illegal move: e5e4} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T19:50:36.974 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:18.877 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.8s} a6 2. a3 {+0.17/22 1.3s} a5 3. e4 {+0.51/19 0.81s} a4
+4. Bc4 {+1.09/18 1.1s} b6 5. Nc3 {+2.24/17 0.93s} b5 6. Nxb5 {+3.32/17 1.1s} c6
+7. Nc3 {+1.62/17 1.1s} c5 8. Bb5 {+3.19/18 1.4s} c4 9. Bxc4 {+3.65/20 1.1s} d6
+10. Qe2 {+3.89/19 2.2s} d5 11. exd5 {+4.45/18 0.86s} Qxd5
+12. Nxd5 {+8.55/20 0.54s} e6
+13. Bb5+ {+9.00/22 2.7s, Black makes an illegal move: e6d5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T19:50:41.848 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:23.177 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.50/21 1.6s} 3. Rb1
+Nc6 {+5.01/20 1.3s} 4. Ra1 e5 {+4.55/20 2.1s} 5. Rb1 Nf6 {+5.99/18 0.41s} 6. Ra1
+Be7 {+5.01/21 5.8s} 7. Rb1 a5 {+7.15/17 0.41s} 8. Ra1 b5 {+5.50/21 5.1s} 9. Rb1
+O-O {+6.62/18 0.78s, White makes an illegal move: d5d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T19:50:51.920 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:24.522 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "31"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.5s} a6 2. c4 {+0.19/21 0.80s} a5 3. a3 {+0.87/19 1.1s} a4
+4. d4 {+1.63/19 0.98s} b6 5. Nf3 {+1.77/21 1.9s} b5 6. cxb5 {+3.25/18 0.36s} c6
+7. bxc6 {+3.41/22 3.2s} dxc6 8. h3 {+3.06/23 4.9s} Bxh3 9. Rxh3 {+6.12/18 1.3s}
+Qxd4 10. Qc2 {+8.51/23 4.5s} Qxe3+ 11. Bxe3 {+8.47/18 0.92s} c5
+12. Nbd2 {+10.79/20 1.4s} c4 13. Bxc4 {+11.55/21 0.94s} e6
+14. Rc1 {+M27/19 0.54s} Bxa3 15. Ne5 {+12.25/21 1.5s} Bxb2
+16. Bb5+ {+M21/21 0.59s, Black makes an illegal move: b2c1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:44"]
+[GameEndTime "2026-01-10T19:51:11.085 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:26.447 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "62"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.03/17 1.1s} 2. Nxd5 Qxd5 {+3.72/21 1.4s} 3. Rb1
+Qxa2 {+5.08/20 1.0s} 4. Ra1 Qxa1 {+6.09/21 1.5s} 5. Nh3 e5 {+6.74/21 1.3s}
+6. Rg1 c6 {+6.96/19 1.7s} 7. Rh1 h6 {+7.40/21 2.0s} 8. Rg1 Nf6 {+7.21/20 1.8s}
+9. Rh1 a5 {+7.61/20 1.3s} 10. Rg1 Be6 {+7.56/20 1.4s} 11. Rh1
+Bxh3 {+8.06/21 2.2s} 12. gxh3 h5 {+7.42/21 2.4s} 13. Bg2 a4 {+7.55/21 1.7s}
+14. Bxc6+ Nxc6 {+8.95/20 1.2s} 15. Kf1 Nd7 {+9.24/21 2.6s} 16. Qe1
+f5 {+9.34/20 1.8s} 17. Qd1 Qa2 {+8.87/20 2.0s} 18. Qe1 Qa1 {+9.05/19 1.7s}
+19. Qd1 Nd4 {+8.90/21 1.9s} 20. Qe1 Be7 {+9.31/19 0.80s} 21. Qd1
+Ra6 {+9.14/20 3.2s} 22. Qe1 g6 {+9.78/19 0.63s} 23. Qd1 Rg8 {+9.19/19 1.6s}
+24. Qe1 Rc6 {+9.81/19 1.2s} 25. Qd1 Nxc2 {+10.43/20 1.2s} 26. Qxc2
+a3 {+12.97/19 0.83s} 27. Qxc6 a2 {+9.93/17 0.73s} 28. Qxd7+
+Kxd7 {+9.85/18 0.77s} 29. Kg1 Qb1 {+M19/20 0.76s} 30. Kg2 Ke8 {+M7/21 0.46s}
+31. Rg1 a1=R {+M11/19 0.46s, White makes an illegal move: a2a1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:50:57.674 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:36.978 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "21"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 2.9s} a6 2. c3 {+0.75/19 0.95s} a5 3. a4 {+0.91/15 0.42s} b6
+4. d4 {+1.06/17 0.55s} b5 5. Na3 {+2.87/17 0.58s} bxa4 6. Bb5 {+1.59/22 5.9s} c6
+7. Bf1 {+1.41/18 1.0s} c5 8. Nc4 {+2.22/16 0.84s} cxd4 9. Nf3 {+0.98/17 1.5s}
+dxc3 10. Be3 {+0.27/20 4.9s} cxb2
+11. Rxa4 {+1.28/15 1.1s, Black makes an illegal move: b2b1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:21"]
+[GameEndTime "2026-01-10T19:51:03.543 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:41.852 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "30"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/20 1.1s} 2. Nxd5 Qxd5 {+3.89/21 1.5s} 3. Rb1
+f5 {+4.90/19 0.57s} 4. Ra1 Nc6 {+4.22/22 3.3s} 5. Rb1 e5 {+5.34/18 0.43s} 6. Ra1
+a6 {+5.12/20 2.0s} 7. Rb1 Qxa2 {+5.81/20 1.7s} 8. Ra1 Qxa1 {+6.79/18 1.1s}
+9. Nh3 h5 {+7.00/21 2.4s} 10. Rg1 Nf6 {+7.43/20 2.2s} 11. Rh1
+Qa2 {+7.52/19 0.97s} 12. Rg1 Qa4 {+7.81/18 1.1s} 13. Rh1 Nd4 {+8.59/22 1.4s}
+14. Rg1 Nxc2+ {+13.86/19 0.39s} 15. Qxc2
+Qxc2 {+M29/21 1.6s, White makes an illegal move: e1d1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:51:12.666 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:51.925 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.8s} a6 2. a3 {+0.19/21 0.76s} a5 3. Nc3 {+0.45/17 0.77s} a4
+4. e4 {+1.02/17 0.56s} b6 5. Nf3 {+1.75/19 2.2s} b5 6. d4 {+3.22/17 0.36s} b4
+7. axb4 {+3.36/20 1.6s} a3 8. bxa3 {+4.10/22 4.7s} Rxa3 9. Bxa3 {+6.74/19 1.4s}
+c6 10. Rb1 {+6.96/20 2.2s} c5 11. bxc5 {+7.79/20 2.2s} d6
+12. Rxb8 {+9.51/19 0.81s} dxc5
+13. Bb5+ {+M15/20 0.35s, Black makes an illegal move: c5d4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:51:17.783 台北標準時間"]
+[GameStartTime "2026-01-10T19:50:57.679 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "24"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.45/20 1.5s} 3. Rb1
+Qxa2 {+4.99/20 1.2s} 4. Ra1 Qxa1 {+6.02/21 1.3s} 5. Nh3 Bd7 {+6.67/22 2.8s}
+6. Rg1 h6 {+7.00/18 1.2s} 7. Rh1 e5 {+7.30/19 0.81s} 8. Rg1 Na6 {+7.59/19 1.6s}
+9. Rh1 g5 {+7.77/21 2.7s} 10. Nxg5 Nb4 {+8.14/20 1.2s} 11. Nxf7
+Bg7 {+7.43/20 2.1s} 12. Nxh8
+O-O-O {+6.13/20 2.5s, White makes an illegal move: a1c1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:39"]
+[GameEndTime "2026-01-10T19:51:42.761 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:03.547 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "43"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.6s} a6 2. e3 {+0.42/20 1.7s} a5 3. Nf3 {+0.83/18 1.0s} a4
+4. d4 {+1.81/17 0.99s} a3 5. Be2 {+2.01/18 0.78s} axb2 6. Bxb2 {+0.57/21 1.5s}
+Rxa2 7. Rxa2 {+5.92/21 1.8s} b6 8. h4 {+5.86/20 4.8s} b5 9. Qc1 {+6.11/18 1.6s}
+bxc4 10. Rf1 {+5.77/18 4.7s} c3 11. Ba3 {+5.19/20 2.1s} c2
+12. Nc3 {+5.63/22 1.4s} c6 13. g4 {+5.86/18 0.84s} c5 14. d5 {+6.01/20 3.4s} c4
+15. Bb4 {+5.94/18 1.5s} d6 16. g5 {+6.36/19 1.5s} e6 17. Ba5 {+6.07/17 0.49s}
+Qxa5 18. Rxa5 {+7.30/19 0.70s} exd5 19. Ra4 {+8.97/20 0.81s} d4
+20. Qxc2 {+8.40/20 0.67s} dxc3 21. Bxc4 {+8.69/22 2.0s} d5
+22. Bb5+ {+9.08/20 1.3s, Black makes an illegal move: d5d4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:04"]
+[GameEndTime "2026-01-10T19:51:15.138 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:11.089 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "10"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.2s} 2. Rb1 Nf6 {+0.22/17 0.53s} 3. Ra1 e5 {+0.76/17 0.57s}
+4. Rb1 Be7 {+1.35/15 0.57s} 5. Ra1
+O-O {+1.45/17 1.1s, White makes an illegal move: e5e4} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T19:51:30.334 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:12.669 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "21"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.6s} a6 2. c4 {+0.17/22 1.3s} a5 3. d4 {+0.80/16 0.56s} a4
+4. Nc3 {+1.62/20 2.4s} a3 5. b4 {+1.46/18 1.0s} b6 6. Rb1 {+2.05/18 1.1s} b5
+7. c5 {+3.18/18 0.78s} c6 8. Qf3 {+2.14/22 5.6s} d6 9. cxd6 {+2.95/16 0.37s}
+exd6 10. d5 {+2.16/18 1.4s} cxd5
+11. Bxb5+ {+3.42/17 0.46s, Black makes an illegal move: d5d4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:21"]
+[GameEndTime "2026-01-10T19:51:37.004 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:15.141 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "24"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.3s} 2. Rb1 Nc6 {+0.42/15 0.86s} 3. Ra1 a6 {+0.89/19 2.6s}
+4. Rb1 b5 {+1.17/16 0.78s} 5. Nxb5 axb5 {+4.86/19 1.2s} 6. Ra1
+d5 {+5.11/20 2.8s} 7. Rb1 Bd7 {+5.62/20 1.6s} 8. Ra1 e6 {+5.78/18 1.1s} 9. Rb1
+h5 {+5.85/18 2.0s} 10. Ra1 Ng4 {+5.66/19 5.2s} 11. Rb1 Qf6 {+5.87/19 1.8s}
+12. Ra1 Qxf2# {+M1/22 0.62s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T19:51:36.067 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:17.787 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "19"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 3.1s} a6 2. Nc3 {+0.66/14 0.35s} a5 3. Nf3 {+1.47/19 1.5s} a4
+4. d4 {+1.68/18 0.96s} a3 5. b4 {+1.72/15 1.0s} b6 6. d5 {+1.99/19 1.8s} b5
+7. Bxb5 {+3.13/21 1.5s} c6 8. Ba4 {+3.25/22 5.5s} Rxa4 9. Nxa4 {+4.21/18 0.98s}
+cxd5 10. O-O {+4.39/21 1.6s, Black makes an illegal move: c1a3} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T19:51:41.161 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:30.337 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "16"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.03/17 1.1s} 2. Rb1 e5 {+0.54/18 1.2s} 3. Ra1 d5 {+1.48/15 0.52s}
+4. Nxd5 Nc6 {+4.52/21 2.4s} 5. Nxf6+ Qxf6 {-0.24/19 1.4s} 6. Rb1
+Bf5 {+1.27/16 1.6s} 7. Ra1 h5 {+2.26/17 1.1s} 8. Rb1
+O-O-O {+2.96/19 1.5s, White makes an illegal move: f5c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:12"]
+[GameEndTime "2026-01-10T19:51:48.113 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:36.071 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "11"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 3.0s} a6 2. Nc3 {+0.17/22 1.2s} a5 3. d4 {+0.85/15 0.44s} a4
+4. e4 {+0.83/20 2.9s} a3 5. Bc4 {+0.88/19 3.5s} axb2
+6. Bxf7+ {+0.51/17 0.97s, Black makes an illegal move: b2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:49"]
+[GameEndTime "2026-01-10T19:52:26.216 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:37.007 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "74"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.03/17 1.1s} 2. Rb1 e5 {+0.26/15 0.51s} 3. Ra1 d5 {+0.86/20 1.7s}
+4. Nxd5 cxd5 {+5.22/20 1.2s} 5. Rb1 Nc6 {+5.28/21 5.3s} 6. Ra1
+a5 {+5.66/18 1.4s} 7. Rb1 Bc5 {+5.73/18 2.4s} 8. Ra1 Bd6 {+6.13/18 0.87s} 9. Rb1
+Qc7 {+5.87/20 3.9s} 10. Ra1 Qd8 {+6.14/19 2.6s} 11. Rb1 d4 {+5.87/18 3.6s}
+12. Ra1 a4 {+5.86/18 1.5s} 13. Rb1 e4 {+6.08/18 2.6s} 14. Ra1
+Nf6 {+6.79/17 1.1s} 15. Rb1 h6 {+7.01/17 1.3s} 16. Ra1 h5 {+7.10/17 1.2s}
+17. Rb1 Qa5 {+7.05/18 2.4s} 18. Ra1 h4 {+7.18/19 2.0s} 19. Rb1
+Be6 {+7.23/17 1.4s} 20. Ra1 h3 {+7.80/17 1.5s} 21. Nxh3 Nd5 {+6.79/18 1.9s}
+22. Rb1 Nf6 {+6.29/17 1.6s} 23. Ra1 Qd5 {+6.58/18 1.1s} 24. Rb1
+Bxh3 {+6.82/18 0.69s} 25. gxh3 Kf8 {+6.75/20 0.99s} 26. Ra1 d3 {+6.61/17 0.81s}
+27. cxd3 Nb4 {+7.00/16 0.54s} 28. Qxa4 Ra6 {+7.81/18 0.088s} 29. Qxa6
+Nxa6 {+7.15/18 0.36s} 30. dxe4 Qxe4 {+6.20/17 0.48s} 31. Rb1
+Qxh1 {+8.65/14 0.045s} 32. Ra1 g5 {+8.45/16 0.15s} 33. Rb1 Qg1 {+9.14/18 0.36s}
+34. Ra1 Nb4 {+11.16/16 0.10s} 35. Rb1 Nd3+ {+M5/20 0.25s} 36. exd3
+Bc5 {+9.41/13 0.022s} 37. Ra1
+Qxf2+ {+M15/15 0.044s, White makes an illegal move: e1f2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:21"]
+[GameEndTime "2026-01-10T19:52:02.193 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:41.165 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "29"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.9s} a6 2. c3 {+0.66/14 0.40s} a5 3. Bc4 {+0.93/14 0.51s} a4
+4. Na3 {+1.15/17 1.1s} b6 5. Nf3 {+2.54/16 1.1s} b5 6. Be2 {+2.09/18 0.79s} b4
+7. Nc2 {+1.41/18 1.5s} bxc3 8. dxc3 {+1.32/18 1.5s} a3 9. b4 {+2.40/17 0.55s} c6
+10. Nxa3 {+2.76/19 1.5s} Rxa3 11. Bxa3 {+4.52/18 1.2s} c5
+12. Bb2 {+4.54/21 5.1s} cxb4 13. Bb5 {+4.56/18 1.2s} bxc3
+14. Bc1 {+4.38/20 1.1s} c2
+15. Qd2 {+4.05/18 0.54s, Black makes an illegal move: d7d6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:16"]
+[GameEndTime "2026-01-10T19:51:59.379 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:42.766 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {0.00/18 1.1s} 2. Rb1 c5 {+0.55/16 1.2s} 3. Ra1 e6 {+1.09/14 0.38s}
+4. Rb1 Nc6 {+1.39/16 0.51s} 5. Ra1 Be7 {+1.40/20 1.4s} 6. Rb1 d5 {+2.10/19 1.2s}
+7. Nxd5 exd5 {+5.57/21 1.7s} 8. Ra1 Qc7 {+5.75/20 4.1s} 9. Rb1
+Bf5 {+5.68/18 2.2s} 10. Ra1 Rd8 {+5.86/18 1.2s} 11. Rb1
+O-O {+6.20/18 1.7s, White makes an illegal move: f5c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:26"]
+[GameEndTime "2026-01-10T19:52:15.117 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:48.118 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/21 2.7s} a6 2. c4 {+0.72/16 0.38s} a5 3. Nc3 {+1.23/19 1.7s} a4
+4. a3 {+1.56/17 0.97s} b6 5. e4 {+2.05/19 1.4s} b5 6. c5 {+3.60/17 0.35s} b4
+7. axb4 {+4.62/20 1.7s} a3 8. bxa3 {+4.73/20 4.0s} Rxa3 9. Bxa3 {+7.07/21 2.6s}
+c6 10. g3 {+7.00/20 2.9s} d6 11. d5 {+6.51/20 4.6s} cxd5 12. Bc1 {+6.70/21 2.3s}
+dxe4 13. Bb5+ {+7.18/20 1.3s, Black makes an illegal move: d6c5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:29"]
+[GameEndTime "2026-01-10T19:52:29.128 台北標準時間"]
+[GameStartTime "2026-01-10T19:51:59.383 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "32"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.03/17 1.2s} 2. Rb1 d5 {+0.26/15 0.49s} 3. Nxd5
+Qxd5 {+4.31/21 1.6s} 4. Ra1 Qa5 {+4.28/22 2.7s} 5. Rb1 Qc7 {+5.09/18 0.39s}
+6. Ra1 e5 {+4.55/23 4.3s} 7. Rb1 Nf6 {+4.98/21 2.5s} 8. Ra1 h6 {+5.16/18 0.94s}
+9. Rb1 Bd6 {+5.37/19 1.9s} 10. Ra1 e4 {+5.53/19 3.3s} 11. Rb1
+Qe7 {+5.92/20 2.8s} 12. Ra1 c5 {+5.95/18 1.7s} 13. Rb1 Nc6 {+6.08/18 1.8s}
+14. Ra1 Bg4 {+6.65/17 0.97s} 15. Rb1 Bh5 {+6.82/18 1.3s} 16. Ra1
+O-O {+7.03/18 1.7s, White makes an illegal move: h5e2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T19:52:20.832 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:02.197 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "19"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.8s} a6 2. e4 {+0.55/17 0.81s} a5 3. Nc3 {+1.25/20 1.5s} a4
+4. Nf3 {+1.54/17 1.3s} a3 5. b3 {+1.78/17 1.0s} b6 6. b4 {+1.51/20 3.1s} b5
+7. cxb5 {+2.83/18 1.3s} c6 8. d4 {+2.87/20 3.6s} cxb5 9. Qb3 {+3.69/20 2.3s} d6
+10. Bxb5+ {+4.21/19 0.96s, Black makes an illegal move: d6d5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:04"]
+[GameEndTime "2026-01-10T19:52:19.798 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:15.120 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "10"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.03/17 1.1s} 2. Rb1 Nf6 {+0.67/14 0.57s} 3. Ra1 Bc5 {+1.19/17 1.0s}
+4. Rb1 Ng4 {+1.50/18 1.5s} 5. Ra1 Bxf2# {+M1/20 0.53s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T19:52:55.431 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:19.802 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "39"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 3.1s} a6 2. e4 {+0.55/17 0.79s} a5 3. d4 {+1.25/20 1.6s} a4
+4. Nf3 {+1.46/17 1.1s} a3 5. h3 {+2.23/18 1.2s} axb2 6. Bxb2 {+0.95/19 1.4s}
+Rxa2 7. Rxa2 {+5.51/21 1.9s} b6 8. Ra1 {+5.86/20 3.7s} b5 9. Nc3 {+6.06/20 2.8s}
+bxc4 10. d5 {+6.13/20 2.7s} c6 11. Be2 {+6.21/19 1.8s} cxd5
+12. Nd4 {+5.88/19 2.3s} dxe4 13. Nc2 {+5.36/20 3.9s} e3 14. Rf1 {+5.52/18 0.94s}
+exf2+ 15. Rxf2 {+3.92/18 1.2s} d6 16. Kf1 {+5.18/18 1.0s} Bxh3
+17. Nd5 {+6.27/21 1.6s} Bxg2+ 18. Kxg2 {+6.04/20 1.8s} c3
+19. Nce3 {+10.16/18 0.52s} cxb2
+20. Bb5+ {+M21/17 0.26s, Black makes an illegal move: b2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T19:52:45.628 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:20.836 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "32"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {0.00/18 1.1s} 2. Rb1 e5 {+0.22/18 1.1s} 3. Ra1 d5 {+1.00/17 1.0s}
+4. Nxd5 Qxd5 {+5.22/20 2.0s} 5. Rb1 a5 {+5.37/20 2.9s} 6. Ra1
+Nf6 {+4.85/21 2.3s} 7. Rb1 Na6 {+5.87/17 0.52s} 8. Ra1 h5 {+5.38/20 3.6s} 9. Rb1
+Be7 {+6.72/17 0.35s} 10. Ra1 h4 {+5.79/20 3.6s} 11. Rb1 Bf5 {+7.15/18 0.84s}
+12. Ra1 e4 {+6.39/18 1.1s} 13. Rb1 Nb4 {+6.81/17 0.34s} 14. Ra1
+Rd8 {+7.58/19 2.0s} 15. Rb1 e3 {+8.94/20 1.2s} 16. dxe3
+Qxd1# {+M1/22 0.58s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:26"]
+[GameEndTime "2026-01-10T19:52:52.403 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:26.220 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "27"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.7s} a6 2. e3 {+0.55/17 0.89s} a5 3. Nc3 {+0.86/18 1.2s} a4
+4. Nxa4 {+1.56/20 2.0s} Rxa4 5. Qxa4 {+3.81/19 1.0s} b6 6. b4 {+3.63/24 5.5s} b5
+7. Qd1 {+4.81/20 0.80s} bxc4 8. Nf3 {+3.73/21 2.6s} c3 9. Qa4 {+4.06/22 4.2s}
+cxd2+ 10. Bxd2 {+3.59/21 1.8s} c6 11. Qc2 {+4.66/16 0.28s} c5
+12. Rc1 {+4.64/19 1.1s} cxb4 13. Qxc8 {+6.13/17 0.31s} Qxc8
+14. Rxc8# {+M1/20 1.7s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:46"]
+[GameEndTime "2026-01-10T19:53:15.378 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:29.132 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "72"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.03/17 1.1s} 2. Nxd5 e5 {+3.72/21 1.5s} 3. Nxc7+
+Qxc7 {+3.49/21 1.4s} 4. Rb1 Bd6 {+4.04/20 2.0s} 5. Ra1 Be6 {+4.15/19 0.92s}
+6. Rb1 Bxa2 {+4.48/18 0.79s} 7. Ra1 Bd5 {+4.29/22 3.6s} 8. Rxa7
+Rxa7 {+6.50/20 1.2s} 9. Nh3 Be6 {+6.70/20 1.7s} 10. Rg1 Nf6 {+6.85/19 1.4s}
+11. Rh1 h5 {+7.46/20 1.5s} 12. Rg1 Ke7 {+7.48/20 2.8s} 13. Rh1
+b5 {+8.15/20 2.0s} 14. Rg1 b4 {+7.65/19 1.2s} 15. Rh1 g5 {+7.59/19 1.3s}
+16. Nxg5 Qd7 {+6.52/21 2.1s} 17. Nxe6 Qxe6 {+6.36/20 1.3s} 18. Rg1
+Rg8 {+7.16/20 2.1s} 19. Rh1 Qd7 {+7.17/18 0.65s} 20. Rg1 Nc6 {+7.12/18 0.94s}
+21. Rh1 Qc8 {+7.37/21 1.9s} 22. Rg1 Ra8 {+7.99/20 1.7s} 23. Rh1
+e4 {+7.89/20 1.8s} 24. Rg1 Qe6 {+8.22/18 0.64s} 25. Rh1 Rgb8 {+8.39/18 0.58s}
+26. Rg1 Rh8 {+8.38/19 0.79s} 27. Rh1 Rhg8 {+7.98/18 0.74s} 28. Rg1
+Ra2 {+8.51/19 0.66s} 29. Rh1 Ra1 {+8.55/20 1.4s} 30. Rg1 Nd4 {+10.60/20 1.4s}
+31. Rh1 Nxc2+ {+M23/19 0.26s} 32. Qxc2 Rc8 {+M21/20 0.95s} 33. Qxc8
+Qd5 {+M9/19 0.85s} 34. Kd1 Bc5 {+7.89/16 0.53s} 35. Qxc5+ Qxc5 {+M5/18 0.46s}
+36. Ke1 Rxc1# {+M1/245 0.10s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:53:06.372 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:45.631 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "29"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.6s} a6 2. e3 {+0.55/18 0.90s} a5 3. Nc3 {+0.73/19 1.5s} a4
+4. Nf3 {+1.56/20 2.1s} a3 5. bxa3 {+1.85/19 1.1s} Rxa3 6. Bxa3 {+6.08/18 0.54s}
+b6 7. Qb1 {+5.84/22 3.5s} b5 8. c5 {+6.49/17 0.80s} b4 9. Qxb4 {+6.15/20 3.1s}
+c6 10. Qb1 {+7.82/19 0.72s} d6 11. Qxb8 {+7.90/19 0.70s} dxc5
+12. Qb2 {+8.87/21 1.3s} Qxd2+ 13. Nxd2 {+11.70/21 0.86s} c4
+14. Qb8 {+M25/19 0.50s} c5 15. Qxc8# {+M1/44 0.49s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T19:53:13.259 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:52.406 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.45/20 1.4s} 3. Rb1 f5 {+4.99/20 1.3s}
+4. Ra1 e5 {+4.28/22 2.2s} 5. Rb1 a6 {+4.94/19 0.87s} 6. Ra1 h6 {+4.73/19 1.8s}
+7. Rb1 Be6 {+5.44/19 1.8s} 8. Ra1 Nd7 {+5.21/19 1.6s} 9. Rb1 f4 {+6.01/17 0.35s}
+10. Ra1 Ngf6 {+5.69/19 2.8s} 11. Rb1 Bc5 {+6.53/19 2.1s} 12. Ra1
+Qc6 {+6.29/18 1.9s} 13. Rb1
+O-O {+6.28/17 1.6s, White makes an illegal move: c5f2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T19:53:22.529 台北標準時間"]
+[GameStartTime "2026-01-10T19:52:55.434 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "29"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.4s} a6 2. e3 {+0.42/20 1.7s} a5 3. Nf3 {+0.88/20 1.1s} a4
+4. Nc3 {+1.83/17 0.71s} a3 5. b4 {+2.01/18 1.2s} b6 6. d4 {+1.91/25 3.1s} b5
+7. Nxb5 {+3.41/19 0.95s} c6 8. Nxa3 {+3.56/21 2.2s} Rxa3 9. h4 {+5.21/19 1.0s}
+Rxa2 10. Rxa2 {+4.95/20 1.5s} c5 11. dxc5 {+5.49/20 2.6s} d6
+12. Be2 {+5.98/19 3.4s} dxc5 13. Bb2 {+6.14/22 2.2s} Qxd1+
+14. Bxd1 {+5.95/18 0.35s} cxb4
+15. Ba4+ {+6.33/21 1.5s, Black makes an illegal move: b4b3} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:38"]
+[GameEndTime "2026-01-10T19:53:45.079 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:06.376 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "48"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.2s} 2. Rb1 e5 {+0.22/17 0.55s} 3. Ra1 f5 {+0.81/18 1.7s}
+4. Rb1 d5 {+1.30/19 1.7s} 5. Nxd5 cxd5 {+4.48/20 1.2s} 6. Ra1
+Nc6 {+5.17/20 1.6s} 7. Rb1 d4 {+5.13/19 3.6s} 8. Ra1 Be6 {+5.39/17 1.1s} 9. Rb1
+Bxa2 {+5.97/17 1.0s} 10. Ra1 Bf7 {+5.62/18 0.96s} 11. Rxa7 Rxa7 {+7.04/22 3.2s}
+12. Nh3 Nf6 {+7.39/19 1.4s} 13. Rg1 Qd5 {+7.88/19 0.87s} 14. Rh1
+Be6 {+8.23/19 1.1s} 15. Rg1 h6 {+7.93/21 3.1s} 16. Rh1 Bd7 {+8.44/20 1.4s}
+17. Rg1 Qd6 {+8.05/20 3.4s} 18. Rh1 Ra8 {+8.11/18 1.0s} 19. Rg1
+Be7 {+8.03/19 2.1s} 20. Rh1 d3 {+8.36/20 1.4s} 21. cxd3 Kd8 {+8.65/19 1.9s}
+22. Qc2 g5 {+9.39/21 1.8s} 23. Qxc6 Qxc6 {+M15/21 0.82s} 24. Nxg5
+Qxc1# {+M1/24 0.43s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:32"]
+[GameEndTime "2026-01-10T19:53:45.932 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:13.263 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "39"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.7s} a6 2. c3 {+0.66/14 0.36s} a5 3. Be2 {+0.93/14 0.51s} a4
+4. d4 {+1.08/18 1.2s} a3 5. Nxa3 {+2.18/19 1.4s} Rxa3 6. bxa3 {+3.81/19 1.0s} b6
+7. Bd3 {+3.71/24 5.8s} b5 8. a4 {+4.83/21 3.1s} bxa4 9. Rb1 {+4.78/21 2.6s} a3
+10. Be3 {+5.80/18 0.47s} c6 11. Rxb8 {+5.94/18 0.61s} c5 12. g3 {+6.83/20 1.5s}
+cxd4 13. Bf4 {+6.29/21 1.9s} dxc3 14. Rb5 {+5.92/19 1.1s} c2
+15. Bxc2 {+5.79/19 1.4s} d6 16. Bc1 {+6.16/20 1.6s} d5 17. Bd3 {+7.69/17 0.30s}
+dxe4 18. Bxe4 {+7.09/23 3.9s} Qxd1+ 19. Kxd1 {+5.20/19 0.52s} e6
+20. Bc6+ {+5.62/19 0.67s, Black makes an illegal move: e6e5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:16"]
+[GameEndTime "2026-01-10T19:53:31.651 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:15.381 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.2s} 2. Rb1 c5 {+0.42/15 0.87s} 3. Ra1 e5 {+1.13/15 0.50s}
+4. Rb1 b5 {+1.51/15 0.51s} 5. Nxb5 d5 {+0.84/19 3.1s} 6. Nxa7
+Rxa7 {+4.77/18 0.55s} 7. Ra1 Ba6 {+4.55/20 5.9s} 8. Rb1 Bd6 {+4.79/20 2.3s}
+9. Ra1 O-O {+5.45/18 1.3s, White makes an illegal move: a6e2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[ECO "A40"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T19:53:46.463 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:22.532 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "20"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. d4 {+0.35/21 2.9s} a6 2. e4 {+0.72/16 0.36s} a5 3. c4 {+1.40/19 2.3s} a4
+4. Nf3 {+1.52/18 1.6s} a3 5. Bd3 {+2.15/18 1.0s} axb2 6. Bxb2 {+1.11/21 1.6s}
+Rxa2 7. Rxa2 {+6.09/20 1.5s} b6 8. d5 {+6.00/21 5.4s} b5 9. e5 {+6.49/19 2.4s}
+bxc4 10. Bc2 {+5.68/19 4.5s} c3 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T19:53:46.462 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:31.655 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "17"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 e5 {+3.83/21 1.4s} 3. Nxc7+
+Qxc7 {+3.59/22 1.6s} 4. Rb1 Be7 {+3.89/20 3.4s} 5. Ra1 Bd6 {+4.13/19 1.5s}
+6. Rb1 Nc6 {+4.21/19 1.5s} 7. Ra1 e4 {+4.37/19 2.1s} 8. Rb1 a6 {+5.22/19 0.92s}
+9. Ra1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[GameDuration "00:00:01"]
+[GameEndTime "2026-01-10T19:53:46.463 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:45.082 台北標準時間"]
+[PlyCount "0"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+{No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:00"]
+[GameEndTime "2026-01-10T19:53:46.463 台北標準時間"]
+[GameStartTime "2026-01-10T19:53:45.935 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "1"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T20:22:20.274 台北標準時間"]
+[GameStartTime "2026-01-10T20:21:57.051 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/20 1.1s} 2. Rb1 Nf6 {+0.20/20 1.3s} 3. Ra1 e5 {+0.66/17 0.83s}
+4. Rb1 Qc7 {+1.61/19 0.85s} 5. Ra1 Qb6 {+1.51/17 0.91s} 6. Rb1
+Qd8 {+1.53/17 0.69s} 7. Ra1 Be7 {+1.35/22 3.8s} 8. Rb1 d5 {+1.59/19 1.4s}
+9. Nxd5 Nxd5 {+5.43/20 1.2s} 10. Ra1 Nf6 {+5.03/21 3.2s} 11. Rb1
+c5 {+5.14/20 2.1s} 12. Ra1 Qc7 {+5.16/20 1.8s} 13. Rb1
+O-O {+5.40/20 4.0s, White makes an illegal move: c5c4} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:09"]
+[GameEndTime "2026-01-10T20:22:06.300 台北標準時間"]
+[GameStartTime "2026-01-10T20:21:56.993 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "9"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 2.9s} a6 2. Nf3 {+0.86/16 0.35s} a5 3. Be2 {+1.48/18 1.3s} a4
+4. d4 {+1.43/19 1.4s} a3
+5. O-O {+2.22/21 3.4s, Black makes an illegal move: b1a3} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:47"]
+[GameEndTime "2026-01-10T20:22:44.843 台北標準時間"]
+[GameStartTime "2026-01-10T20:21:57.045 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "66"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/20 1.1s} 2. Rb1 d5 {+0.20/20 1.3s} 3. Nxd5 Qxd5 {+4.29/22 1.2s}
+4. Ra1 e5 {+4.29/21 2.7s} 5. Rb1 h6 {+5.33/19 0.87s} 6. Ra1 a5 {+4.71/20 2.8s}
+7. Rb1 Be6 {+5.65/17 0.36s} 8. Ra1 a4 {+5.06/23 4.3s} 9. Rb1
+Qxa2 {+6.75/17 0.39s} 10. Ra1 Qxa1 {+7.65/20 1.5s} 11. Nh3 Nd7 {+7.91/22 1.5s}
+12. Rg1 Ngf6 {+8.06/24 3.1s} 13. Rh1 Be7 {+8.41/20 1.4s} 14. Rg1
+Qa2 {+8.44/22 3.1s} 15. Rh1 Bb4 {+8.59/20 1.4s} 16. Rg1 b5 {+8.34/21 1.9s}
+17. Rh1 Bd6 {+8.33/20 1.6s} 18. Rg1 Bb4 {+8.23/19 2.2s} 19. Rh1
+Bd6 {+8.74/19 1.5s} 20. Rg1 Rf8 {+8.07/20 2.9s} 21. Rh1 Rg8 {+8.52/18 0.85s}
+22. Rg1 g5 {+8.41/17 0.85s} 23. Nxg5 hxg5 {+8.99/20 1.0s} 24. Rh1
+Bc5 {+9.16/22 2.0s} 25. Rg1 Be7 {+9.35/19 0.71s} 26. Rh1 Qd5 {+9.31/20 1.6s}
+27. Rg1 Bc5 {+9.48/19 1.2s} 28. Rh1 e4 {+9.31/17 0.31s} 29. Rg1
+Qa2 {+10.65/18 0.37s} 30. Rh1 g4 {+9.30/20 0.91s} 31. Rg1 Bb4 {+9.67/18 0.38s}
+32. Rh1 Kd8 {+9.59/17 0.21s} 33. Rg1
+e3 {+9.94/18 0.40s, White makes an illegal move: d2e3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:28"]
+[GameEndTime "2026-01-10T20:22:25.352 台北標準時間"]
+[GameStartTime "2026-01-10T20:21:57.035 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "31"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.33/22 2.4s} a6 2. Nf3 {+0.56/18 0.93s} a5 3. Nc3 {+1.28/19 1.4s} a4
+4. h3 {+1.65/18 1.3s} a3 5. e4 {+1.53/19 1.0s} axb2 6. Bxb2 {+1.08/21 1.7s} Rxa2
+7. Nxa2 {+5.61/22 3.8s} b6 8. Nc1 {+5.62/22 4.3s} b5 9. h4 {+5.91/20 2.0s} bxc4
+10. Ne5 {+5.15/20 4.5s} c3 11. Bxc3 {+5.90/20 1.5s} c6 12. Nf3 {+8.50/20 1.0s}
+c5 13. Rb1 {+7.33/19 0.80s} c4 14. Bxc4 {+7.36/20 0.86s} d6
+15. Rxb8 {+10.21/19 0.29s} d5
+16. Qa4+ {+M11/23 0.43s, Black makes an illegal move: d5c4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:19"]
+[GameEndTime "2026-01-10T20:22:25.694 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:06.304 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "24"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 Nf6 {+0.79/17 0.66s} 3. Ra1
+Nc6 {+1.28/16 0.55s} 4. Rb1 d5 {+1.93/16 0.71s} 5. Nxd5 Nxd5 {+5.09/21 1.5s}
+6. Ra1 a5 {+4.95/23 6.1s} 7. Rb1 h6 {+5.34/20 1.8s} 8. Ra1 Bc5 {+5.46/19 1.0s}
+9. Rb1 Bf5 {+7.17/19 1.5s} 10. Ra1 Bg4 {+7.22/19 0.96s} 11. Rb1
+Nf6 {+7.22/19 1.2s} 12. Ra1
+O-O {+M23/21 2.2s, White makes an illegal move: g4e2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T20:22:34.372 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:20.277 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "13"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.38/23 2.5s} a6 2. e4 {+0.71/19 0.83s} a5 3. Bc4 {+1.45/18 1.2s} a4
+4. Nf3 {+1.41/22 3.6s} a3 5. Nxa3 {+2.00/16 0.75s} Rxa3 6. bxa3 {+3.83/18 1.1s}
+b6 7. O-O {+3.88/22 4.1s, Black makes an illegal move: c4f7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T20:22:50.471 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:25.355 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.08/20 1.2s} 2. Rb1 d5 {+0.52/18 1.2s} 3. Nxd5
+Qxd5 {+4.33/21 1.2s} 4. Ra1 a5 {+4.73/20 2.0s} 5. Rb1 g6 {+5.48/18 0.51s} 6. Ra1
+a4 {+4.85/21 2.4s} 7. Rb1 Qd8 {+5.99/17 0.45s} 8. Ra1 e5 {+5.42/23 5.7s} 9. Rb1
+h6 {+5.20/21 5.0s} 10. Ra1 Nc6 {+5.70/19 2.1s} 11. Rb1 Bc5 {+5.71/16 0.69s}
+12. Ra1 Ng4 {+5.71/18 2.2s} 13. Rb1 Bxf2# {+M1/23 0.44s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T20:22:42.968 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:25.697 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "17"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.38/23 2.6s} a6 2. Nf3 {+0.81/18 0.40s} a5 3. Bc4 {+1.41/19 1.1s} a4
+4. Nc3 {+1.35/18 1.7s} a3 5. b3 {+1.13/18 4.9s} b6 6. d4 {+1.30/18 1.7s} b5
+7. Bxb5 {+2.92/19 2.1s} c6 8. Bd3 {+2.93/21 1.2s} c5
+9. O-O {+3.65/20 1.7s, Black makes an illegal move: c1a3} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:11"]
+[GameEndTime "2026-01-10T20:22:45.567 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:34.376 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.03/17 1.2s} 2. Rb1 Nf6 {+0.18/16 0.56s} 3. Ra1 d5 {+0.63/16 0.50s}
+4. Nxd5 Nxd5 {+4.70/21 1.5s} 5. Rb1 g6 {+4.38/20 2.1s} 6. Ra1
+Na6 {+4.39/20 2.1s} 7. Rb1 e5 {+4.58/19 1.0s} 8. Ra1 Bg7 {+4.99/20 1.8s} 9. Rb1
+O-O {+5.53/18 0.43s, White makes an illegal move: d5e7} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T20:23:18.550 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:42.972 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "49"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.2s} a6 2. d4 {+0.24/20 1.3s} a5 3. e4 {+0.75/17 0.71s} a4
+4. Bd3 {+1.03/18 1.6s} a3 5. Nf3 {+1.94/17 0.68s} axb2 6. Bxb2 {+0.96/18 1.5s}
+Rxa2 7. Na3 {+5.86/21 1.5s} Rxa1 8. Ke2 {+0.72/22 1.4s} Rxd1
+9. Rxd1 {-6.15/23 1.6s} b6 10. Ra1 {-5.61/20 1.5s} b5 11. Nxb5 {-4.69/19 0.91s}
+c6 12. Na7 {-4.39/19 1.2s} c5 13. dxc5 {-3.49/18 0.63s} d6
+14. Bd4 {-2.92/17 1.3s} dxc5 15. Be3 {-3.87/21 4.4s} Qxd3+
+16. Kxd3 {-1.73/19 2.1s} c4+ 17. Ke2 {+0.23/16 0.86s} c3
+18. Nxc8 {+4.86/18 0.41s} e6 19. e5 {+6.08/20 1.6s} f6 20. Ra7 {+5.92/20 1.3s}
+fxe5 21. Nb6 {+5.63/21 2.0s} e4 22. Ng5 {+4.01/20 1.8s} e5
+23. Nxe4 {+5.73/17 0.58s} g6 24. Rc7 {+6.40/19 0.96s} g5
+25. Rc8+ {+6.65/17 0.41s, Black makes an illegal move: g5g4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T20:23:00.148 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:44.847 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.10/19 1.1s} 2. Nxd5 e6 {+3.83/21 1.5s} 3. Nxc7+
+Qxc7 {+2.98/24 2.0s} 4. Rb1 Nc6 {+3.62/19 1.4s} 5. Ra1 Bd6 {+3.95/19 1.4s}
+6. Rb1 a6 {+4.19/19 1.4s} 7. Ra1 e5 {+4.20/21 1.6s} 8. Rb1 Nf6 {+4.88/19 1.2s}
+9. Ra1 b5 {+5.09/19 1.4s} 10. Rb1 Be6 {+5.47/18 1.3s} 11. Ra1
+O-O {+5.36/17 0.96s, White makes an illegal move: e6a2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:31"]
+[GameEndTime "2026-01-10T20:23:16.638 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:45.571 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "27"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.6s} a6 2. d4 {+0.66/14 0.34s} a5 3. Nc3 {+1.39/19 1.5s} a4
+4. Bd3 {+1.64/19 2.5s} a3 5. Nf3 {+1.31/18 2.5s} axb2 6. Bxb2 {+1.15/19 1.1s}
+Rxa2 7. Nxa2 {+6.00/21 2.2s} b6 8. h4 {+6.14/21 4.3s} b5 9. Nc3 {+5.85/19 2.6s}
+b4 10. Na2 {+5.53/18 2.9s} b3 11. cxb3 {+5.73/20 4.0s} c6 12. b4 {+6.19/18 1.7s}
+c5 13. dxc5 {+6.55/18 1.1s} d6
+14. Bb5+ {+7.55/19 1.7s, Black makes an illegal move: d6c5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T20:23:08.278 台北標準時間"]
+[GameStartTime "2026-01-10T20:22:50.475 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.1s} 2. Rb1 d5 {+0.22/17 0.55s} 3. Nxd5
+cxd5 {+4.44/23 3.4s} 4. Ra1 e5 {+5.06/19 0.90s} 5. Rb1 Bd6 {+5.25/20 2.3s}
+6. Ra1 a5 {+5.48/19 1.7s} 7. Rb1 Ne7 {+5.71/18 0.98s} 8. Ra1 Na6 {+5.87/19 1.5s}
+9. Rb1 O-O {+5.61/21 5.4s, White makes an illegal move: a5a4} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T20:23:17.515 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:00.152 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "25"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 2.6s} a6 2. c4 {+0.19/23 1.5s} a5 3. Nf3 {+0.83/20 1.3s} a4
+4. Qc2 {+1.65/18 1.0s} a3 5. Nxa3 {+2.03/23 2.3s} Rxa3 6. bxa3 {+3.55/22 1.0s}
+b6 7. d4 {+3.65/21 3.0s} b5 8. Rb1 {+5.02/19 1.2s} bxc4 9. Bxc4 {+6.04/19 0.73s}
+c6 10. Rxb8 {+6.37/18 0.55s} c5 11. Qa4 {+8.31/20 1.1s} cxd4
+12. Ne5 {+8.64/18 0.40s} dxe3 13. Bxf7# {+M1/20 0.64s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T20:23:36.036 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:08.282 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "32"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 Qxd5 {+3.50/21 1.5s} 3. Rb1
+Nf6 {+5.01/20 1.2s} 4. Ra1 Nc6 {+4.67/20 1.4s} 5. Rb1 Qd8 {+5.98/19 0.51s}
+6. Ra1 a6 {+4.94/20 5.3s} 7. Rb1 e5 {+5.18/19 1.2s} 8. Ra1 h6 {+5.23/19 2.4s}
+9. Rb1 Bd6 {+5.38/19 1.6s} 10. Ra1 Be6 {+5.69/20 2.8s} 11. Rb1
+b5 {+6.25/17 0.39s} 12. Ra1 e4 {+5.64/19 4.7s} 13. Rb1 Ng4 {+6.40/18 1.2s}
+14. Ra1 h5 {+6.56/17 1.5s} 15. Rb1 Qf6 {+7.01/17 0.71s} 16. Ra1
+Qxf2# {+M1/36 0.29s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T20:23:41.259 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:16.642 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.1s} a6 2. Nf3 {+0.45/25 3.0s} a5 3. g3 {+1.30/19 1.1s} a4
+4. e4 {+1.36/18 0.97s} a3 5. Bg2 {+2.02/17 0.41s} axb2 6. Bxb2 {+1.10/22 1.6s}
+Rxa2 7. Rxa2 {+5.91/22 1.8s} b6 8. d4 {+5.99/20 3.0s} b5 9. h4 {+6.30/19 1.2s}
+bxc4 10. Bc3 {+6.30/18 0.79s} c6 11. Qc2 {+7.40/17 0.56s} c5
+12. d5 {+7.29/20 2.4s} d6
+13. O-O {+6.65/20 4.6s, Black makes an illegal move: c3g7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:22"]
+[GameEndTime "2026-01-10T20:23:39.746 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:17.519 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/20 1.2s} 2. Rb1 e5 {+0.60/19 1.2s} 3. Ra1 a6 {+1.38/15 0.40s}
+4. Rb1 d5 {+1.63/15 0.52s} 5. Nxd5 Qxd5 {+4.93/21 1.7s} 6. Ra1
+Be7 {+4.98/20 2.5s} 7. Rb1 e4 {+6.35/18 0.47s} 8. Ra1 h6 {+5.39/22 5.9s} 9. Rb1
+Be6 {+6.99/19 0.37s} 10. Ra1 a5 {+5.66/19 2.6s} 11. Rb1 a4 {+6.52/20 1.3s}
+12. Ra1 Nc6 {+5.97/19 2.8s} 13. Rb1
+O-O {+7.47/19 1.2s, White makes an illegal move: d5d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T20:23:28.904 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:18.555 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "13"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/22 3.2s} a6 2. c3 {+0.81/16 0.33s} a5 3. Nd2 {+1.09/16 0.59s} a4
+4. Nc4 {+0.98/19 1.4s} a3 5. Nf3 {+1.00/21 2.3s} axb2 6. Bxb2 {+0.18/21 1.2s}
+Rxa2 7. Nd6+ {+5.25/20 1.4s, Black makes an illegal move: a2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T20:23:44.876 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:28.908 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "16"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.10/19 1.1s} 2. Nxd5 e5 {+3.68/21 1.5s} 3. Nxc7+
+Qxc7 {+3.57/24 2.5s} 4. Rb1 Nf6 {+3.95/20 1.9s} 5. Ra1 Bd6 {+4.09/21 3.0s}
+6. Rb1 Bd7 {+4.44/21 3.2s} 7. Ra1 Bg4 {+4.52/18 0.99s} 8. Rb1
+O-O {+4.76/19 1.8s, White makes an illegal move: g4e2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T20:23:51.738 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:36.038 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "18"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.0s} a6 2. Qe2 {+0.19/21 1.6s} a5 3. e4 {+0.35/20 0.94s} a4
+4. Nc3 {+0.68/15 0.89s} a3 5. Nf3 {+0.36/20 2.6s} axb2 6. Bxb2 {+0.43/20 0.99s}
+Rxa2 7. Rxa2 {+5.30/21 2.5s} b6 8. Ra8 {+5.69/20 1.9s} b5
+9. Ra2 {+7.39/17 0.33s} b4 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:11"]
+[GameEndTime "2026-01-10T20:23:51.738 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:39.750 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "15"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 Nc6 {+0.42/15 0.71s} 3. Ra1 d5 {+0.89/19 2.0s}
+4. Nxd5 Nxd5 {+4.25/21 2.2s} 5. Rb1 e5 {+4.72/20 1.5s} 6. Ra1
+Nf6 {+5.05/19 1.3s} 7. Rb1 e4 {+5.37/19 1.3s} 8. Ra1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[ECO "B00"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T20:23:51.738 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:41.264 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "14"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.4s} a6 2. c3 {+0.76/18 0.95s} a5 3. Bc4 {+0.99/17 1.0s} a4
+4. d4 {+0.98/17 0.81s} a3 5. Nf3 {+2.06/18 0.89s} axb2 6. Bxb2 {+0.73/20 1.2s}
+Rxa2 7. Qb3 {+5.97/20 1.4s} Rxa1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:06"]
+[GameEndTime "2026-01-10T20:23:51.738 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:44.879 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "13"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.10/19 1.1s} 2. Rb1 Nf6 {+0.81/14 0.50s} 3. Ra1 d5 {+1.34/17 1.2s}
+4. Nxd5 Qxd5 {+4.63/21 1.2s} 5. Rb1 Qxa2 {+5.64/18 0.63s} 6. Ra1
+Qxa1 {+6.98/22 1.9s} 7. Nh3 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:37"]
+[GameEndTime "2026-01-10T20:24:33.655 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:55.875 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "44"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 e5 {+3.75/22 1.7s} 3. Nxc7+
+Qxc7 {+3.45/23 1.4s} 4. Rb1 Bd6 {+3.94/19 1.3s} 5. Ra1 h6 {+4.19/19 0.94s}
+6. Rb1 Bf5 {+4.41/20 1.2s} 7. Ra1 Nc6 {+6.67/19 0.63s} 8. Rb1
+Be6 {+6.93/20 1.5s} 9. Ra1 Nf6 {+5.35/19 1.7s} 10. Rb1 a6 {+6.49/19 1.5s}
+11. Ra1 b5 {+5.33/20 4.3s} 12. Rb1 Bxa2 {+6.28/20 2.7s} 13. Ra1
+Bd5 {+6.49/18 1.5s} 14. Rxa6 Rxa6 {+6.95/19 2.2s} 15. Nh3 Na7 {+8.00/20 1.6s}
+16. Rg1 Qc8 {+7.92/20 2.2s} 17. Rh1 Bb7 {+7.78/19 1.6s} 18. Rg1
+e4 {+7.32/18 2.1s} 19. Rh1 Qd8 {+7.78/19 1.9s} 20. Rg1 Be5 {+7.87/19 2.3s}
+21. Rh1 Qc7 {+7.54/18 0.91s} 22. Rg1
+O-O {+7.78/19 1.4s, White makes an illegal move: e5h2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:16"]
+[GameEndTime "2026-01-10T20:24:12.309 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:55.857 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "19"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.2s} a6 2. d4 {+0.45/25 3.0s} a5 3. a3 {+1.29/19 1.6s} a4
+4. Nf3 {+1.52/19 0.94s} b6 5. Nc3 {+2.07/20 1.8s} b5 6. e4 {+3.32/18 0.34s} bxc4
+7. Bxc4 {+2.65/18 1.6s} c6 8. b4 {+3.02/20 2.5s} c5 9. bxc5 {+4.97/17 0.34s} d6
+10. Bb5+ {+5.64/19 1.2s, Black makes an illegal move: d6c5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T20:24:19.088 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:55.873 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "32"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 e5 {+3.75/22 1.8s} 3. Nxc7+
+Qxc7 {+3.45/23 1.5s} 4. Rb1 Bd6 {+3.94/19 1.3s} 5. Ra1 h6 {+4.19/19 0.94s}
+6. Rb1 Bf5 {+4.41/20 1.2s} 7. Ra1 Nc6 {+6.67/19 0.64s} 8. Rb1
+Be6 {+7.07/19 1.2s} 9. Ra1 Bc8 {+5.11/20 2.9s} 10. Rb1 Nf6 {+4.92/19 1.7s}
+11. Ra1 Be6 {+5.16/19 2.7s} 12. Rb1 Bxa2 {+6.09/18 0.88s} 13. Ra1
+Nd4 {+6.32/18 1.2s} 14. Rxa2 Nxc2+ {+6.37/19 1.7s} 15. Qxc2 Qxc2 {+6.52/20 1.9s}
+16. Rxa7 Qxc1# {+M1/19 0.50s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T20:24:21.331 台北標準時間"]
+[GameStartTime "2026-01-10T20:23:55.873 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.1s} a6 2. e4 {+0.45/25 3.0s} a5 3. Nf3 {+1.29/24 3.6s} a4
+4. d4 {+1.59/19 1.2s} a3 5. bxa3 {+2.35/16 0.98s} Rxa3 6. Bxa3 {+5.39/21 1.3s}
+b6 7. e5 {+5.88/19 1.6s} b5 8. Bc1 {+6.53/18 0.85s} bxc4 9. Bxc4 {+5.89/24 4.8s}
+c6 10. Nbd2 {+6.59/19 0.86s} c5 11. dxc5 {+6.74/20 2.0s} d6
+12. exd6 {+7.76/20 1.2s} exd6
+13. Bb5+ {+7.55/19 0.86s, Black makes an illegal move: d6c5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:28"]
+[GameEndTime "2026-01-10T20:24:41.074 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:12.313 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "28"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.50/21 1.6s} 3. Rb1
+Qxa2 {+5.01/20 1.2s} 4. Ra1 Qd5 {+6.00/23 1.5s} 5. Rxa7 Rxa7 {+5.83/21 1.5s}
+6. Nh3 Nf6 {+7.28/20 1.1s} 7. Rg1 e6 {+6.96/18 1.3s} 8. Rh1 Qd8 {+7.38/21 2.0s}
+9. Rg1 Bb4 {+7.01/22 5.5s} 10. Rh1 Nc6 {+7.29/20 2.0s} 11. Rg1
+h6 {+7.52/21 3.8s} 12. Rh1 b5 {+7.90/18 1.1s} 13. Rg1 Bd6 {+6.99/19 3.7s}
+14. Rh1 O-O {+7.63/18 1.4s, White makes an illegal move: d6h2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T20:24:44.789 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:19.091 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/22 3.2s} a6 2. e4 {+0.81/16 0.36s} a5 3. Bd3 {+1.52/22 2.6s} a4
+4. Nf3 {+1.52/17 0.82s} a3 5. Nxa3 {+2.49/20 1.3s} Rxa3 6. bxa3 {+4.00/20 1.9s}
+b6 7. Bd2 {+4.15/22 4.6s} b5 8. Bc1 {+5.32/20 2.5s} b4 9. axb4 {+5.51/19 1.2s}
+c6 10. a3 {+6.01/18 0.97s} c5 11. c3 {+5.92/20 2.5s} cxb4
+12. axb4 {+5.90/19 2.0s} d6
+13. O-O {+6.33/17 1.8s, Black makes an illegal move: a1a2} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T20:24:41.787 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:21.335 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "22"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.10/19 1.1s} 2. Rb1 Nc6 {+0.50/19 1.2s} 3. Ra1 e6 {+0.94/20 2.1s}
+4. Rb1 a6 {+0.86/18 2.3s} 5. Ra1 d5 {+1.37/15 0.38s} 6. Nxd5
+exd5 {+5.02/21 2.0s} 7. Rb1 Bb4 {+5.35/21 5.6s} 8. Ra1 Be7 {+5.25/18 0.76s}
+9. Rb1 Bd6 {+5.48/17 0.94s} 10. Ra1 Bf5 {+5.54/19 3.1s} 11. Rb1
+O-O {+5.86/17 0.94s, White makes an illegal move: f5c2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:21"]
+[GameEndTime "2026-01-10T20:24:54.824 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:33.658 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "27"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.5s} a6 2. d4 {+0.55/18 0.85s} a5 3. e4 {+1.26/19 0.72s} a4
+4. Bf4 {+1.42/19 2.3s} a3 5. Nc3 {+1.48/17 1.0s} axb2 6. Rb1 {+0.56/20 1.5s}
+Rxa2 7. Nxa2 {+4.18/16 0.49s} b6 8. Be2 {+5.03/18 1.5s} b5
+9. Qc2 {+5.66/19 1.3s} bxc4 10. Nc3 {+5.68/19 1.1s} c6 11. Nf3 {+6.20/20 2.0s}
+c5 12. dxc5 {+6.50/19 1.3s} d6 13. e5 {+6.62/20 1.9s} dxc5
+14. O-O {+6.77/19 2.7s, Black makes an illegal move: b1b2} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:37"]
+[GameEndTime "2026-01-10T20:25:18.830 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:41.077 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "36"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.2s} 2. Rb1 Nf6 {+0.83/15 0.54s} 3. Ra1 d5 {+1.50/14 0.58s}
+4. Nxd5 Nxd5 {+4.53/21 1.6s} 5. Rb1 Nf6 {+4.88/19 1.5s} 6. Ra1
+Nc6 {+5.03/21 4.5s} 7. Rb1 h6 {+5.36/19 1.8s} 8. Ra1 Be6 {+5.39/21 5.3s} 9. Rb1
+Bxa2 {+5.74/18 1.1s} 10. Ra1 Be6 {+5.40/19 1.5s} 11. Rxa7 Rxa7 {+7.47/20 2.2s}
+12. Nh3 g6 {+7.68/18 3.8s} 13. Rg1 Bg7 {+7.88/18 1.7s} 14. Rh1
+Bd7 {+8.13/18 0.99s} 15. Rg1 Bg4 {+8.08/19 3.1s} 16. Rh1 h5 {+8.32/19 2.2s}
+17. Rg1 Be6 {+7.88/18 2.0s} 18. Rh1
+O-O {+8.04/19 1.8s, White makes an illegal move: e6h3} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T20:24:51.934 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:41.790 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "11"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. d4 {+0.35/21 3.0s} a6 2. e4 {+0.73/18 0.44s} a5 3. c4 {+1.47/20 3.0s} a4
+4. Nf3 {+1.62/18 1.2s} a3 5. Be2 {+2.15/19 1.1s} axb2
+6. Nbd2 {+1.24/20 1.4s, Black makes an illegal move: b2a1} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:34"]
+[GameEndTime "2026-01-10T20:25:18.910 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:44.791 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "36"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.10/19 1.1s} 2. Rb1 a5 {+0.19/19 1.6s} 3. Ra1 Nf6 {+0.33/16 0.36s}
+4. Rb1 e5 {+1.23/16 0.74s} 5. Ra1 b5 {+1.57/16 0.88s} 6. Nxb5
+cxb5 {+4.47/21 1.6s} 7. Rb1 h6 {+5.41/21 3.8s} 8. Ra1 d5 {+5.30/20 2.5s} 9. Rb1
+Nc6 {+5.68/17 1.1s} 10. Ra1 Ba6 {+6.00/17 0.93s} 11. Rb1 Bd6 {+6.17/19 4.3s}
+12. Ra1 d4 {+6.28/17 1.2s} 13. Rb1 Rb8 {+6.63/18 3.5s} 14. Ra1
+e4 {+6.30/19 3.3s} 15. Rb1 Qc8 {+6.80/17 1.7s} 16. Ra1 Qc7 {+6.98/17 1.4s}
+17. Rb1 h5 {+6.98/18 1.4s} 18. Ra1
+O-O {+7.02/19 2.5s, White makes an illegal move: d6h2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:17"]
+[GameEndTime "2026-01-10T20:25:09.285 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:51.937 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "23"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.7s} a6 2. d4 {+0.55/17 0.90s} a5 3. Nc3 {+1.26/18 1.2s} a4
+4. Nf3 {+1.48/20 2.0s} a3 5. bxa3 {+1.34/19 1.8s} Rxa3 6. Nb5 {+5.57/17 0.49s}
+Rxf3 7. Rb1 {+2.95/22 1.8s} Rxf2 8. Bd2 {+0.99/20 1.4s} Rxf1+
+9. Rxf1 {-2.73/21 1.4s} b6 10. Bf4 {-1.57/15 1.5s} c6 11. Bc7 {+5.64/16 0.44s}
+Qxc7 12. Nxc7+ {+6.93/20 1.7s, Black makes an illegal move: b6b5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:13"]
+[GameEndTime "2026-01-10T20:25:08.581 台北標準時間"]
+[GameStartTime "2026-01-10T20:24:54.827 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "16"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.03/17 1.1s} 2. Nxd5 Qxd5 {+3.77/22 1.8s} 3. Rb1 e5 {+5.06/19 1.0s}
+4. Ra1 Nf6 {+4.63/19 1.3s} 5. Rb1 Be7 {+5.68/17 0.38s} 6. Ra1
+Be6 {+5.24/19 1.8s} 7. Rb1 a6 {+6.84/18 0.44s} 8. Ra1
+O-O {+5.28/21 5.9s, White makes an illegal move: d5d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T20:25:28.682 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:08.584 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.4s} a6 2. Nc3 {+0.76/18 0.96s} a5 3. d4 {+1.51/19 1.5s} a4
+4. Nf3 {+1.70/17 0.82s} a3 5. bxa3 {+1.76/17 1.1s} Rxa3 6. Bxa3 {+6.03/18 0.52s}
+b6 7. Bb2 {+6.14/20 3.0s} b5 8. Ba3 {+6.79/17 0.39s} b4 9. Bxb4 {+6.03/20 1.5s}
+c6 10. Qb1 {+6.64/19 1.6s} c5 11. Bxc5 {+7.08/19 1.7s} d6
+12. Qxb8 {+9.19/20 1.7s} dxc5
+13. Bb5+ {+M17/23 1.8s, Black makes an illegal move: c5d4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:12"]
+[GameEndTime "2026-01-10T20:25:21.312 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:09.289 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "18"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 e5 {+0.42/15 0.74s} 3. Ra1 d5 {+1.04/15 0.55s}
+4. Nxd5 Bc5 {+4.54/20 1.5s} 5. Nxf6+ Ke7 {-0.29/19 2.4s} 6. Nxh7
+Ke8 {-2.61/17 0.71s} 7. Rb1 Bf5 {-1.79/19 2.6s} 8. Ra1 Qh4 {-1.59/16 1.9s}
+9. Rb1 Qxf2# {+M1/19 0.46s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T20:25:39.555 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:18.833 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "31"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.9s} a6 2. d4 {+0.61/13 0.34s} a5 3. Nc3 {+1.41/18 1.5s} a4
+4. Be3 {+1.51/19 1.4s} a3 5. bxa3 {+1.15/19 2.6s} Rxa3 6. Bd2 {+0.75/17 1.1s}
+Rxc3 7. Qb1 {+2.89/19 1.4s} Rxc2 8. Qxc2 {+2.31/20 1.4s} b6
+9. Nf3 {+2.81/20 2.3s} b5 10. Rb1 {+4.49/18 0.79s} b4 11. Rxb4 {+4.71/18 0.38s}
+c6 12. Rb1 {+6.40/18 0.59s} c5 13. dxc5 {+6.58/20 1.8s} d6
+14. cxd6 {+9.83/19 0.71s} exd6 15. Rxb8 {+9.46/19 0.82s} d5
+16. Bb5+ {+M13/23 0.58s, Black makes an illegal move: d5e4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:04"]
+[GameEndTime "2026-01-10T20:25:23.475 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:18.914 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "12"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.2s} 2. Rb1 Nf6 {+0.53/15 0.50s} 3. Ra1 Nc6 {+1.23/17 1.1s}
+4. Rb1 Bc5 {+2.15/16 0.44s} 5. Ra1 Ng4 {+2.22/16 0.74s} 6. Rb1
+Bxf2# {+M1/26 0.55s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:11"]
+[GameEndTime "2026-01-10T20:25:32.549 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:21.316 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "17"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.35/21 3.1s} a6 2. d4 {+0.19/21 0.81s} a5 3. a3 {+0.91/19 0.75s} a4
+4. Bb5 {+1.47/17 0.51s} b6 5. Bd3 {+1.60/18 1.2s} b5 6. Bxb5 {+2.41/17 0.54s} c6
+7. Bc4 {+2.23/21 1.6s} c5 8. Bb5 {+4.82/19 0.81s} cxd4
+9. Qxd4 {+2.47/20 1.9s, Black makes an illegal move: d7d6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:22"]
+[GameEndTime "2026-01-10T20:25:45.666 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:23.478 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "26"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.03/17 1.1s} 2. Rb1 c5 {+0.54/18 1.1s} 3. Ra1 a6 {+1.01/16 0.49s}
+4. Rb1 Nc6 {+1.15/18 1.2s} 5. Ra1 d5 {+1.53/17 0.90s} 6. Nxd5
+Qxd5 {+4.71/24 5.5s} 7. Rb1 g6 {+6.56/19 0.83s} 8. Ra1 Bg7 {+5.12/20 2.4s}
+9. Rb1 c4 {+6.93/18 0.47s} 10. Ra1 h5 {+5.97/20 3.8s} 11. Rb1 h4 {+6.09/20 2.2s}
+12. Ra1 e5 {+6.55/17 1.1s} 13. Rb1
+O-O {+6.45/18 1.1s, White makes an illegal move: d5d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:29"]
+[GameEndTime "2026-01-10T20:25:58.257 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:28.686 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "39"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.6s} a6 2. d4 {+0.66/14 0.34s} a5 3. Bc4 {+1.39/19 1.5s} a4
+4. Bd3 {+1.45/18 1.7s} a3 5. Nxa3 {+1.83/16 0.39s} Rxa3 6. c3 {+3.51/19 1.7s}
+Rxa2 7. Rxa2 {+3.88/20 1.4s} b6 8. Nf3 {+4.19/20 1.6s} b5
+9. Bxb5 {+4.68/19 1.7s} c6 10. Be2 {+5.30/21 2.0s} c5 11. dxc5 {+5.80/19 1.0s}
+d6 12. Bf4 {+7.09/19 0.85s} dxc5 13. Ne5 {+7.66/20 1.6s} Qxd1+
+14. Bxd1 {+7.70/20 0.54s} c4 15. Nxc4 {+10.05/19 1.8s} e6
+16. Bxb8 {+8.15/22 2.6s} e5 17. Bxe5 {+8.76/21 1.2s} f6 18. Bd4 {+8.47/21 2.4s}
+f5 19. exf5 {+9.40/20 1.0s} Bxf5
+20. Ra8+ {+9.41/21 1.5s, Black makes an illegal move: f5g6} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:16"]
+[GameEndTime "2026-01-10T20:25:49.347 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:32.553 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "20"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.03/17 1.3s} 2. Rb1 d5 {+0.54/18 1.2s} 3. Nxd5 e5 {+4.47/21 1.4s}
+4. Nxf6+ gxf6 {-0.76/23 5.0s} 5. Ra1 Rg8 {-0.60/16 1.3s} 6. Rb1
+Bf5 {+0.59/15 1.0s} 7. Ra1 Qd6 {+0.51/19 3.1s} 8. Rb1 Nc6 {+1.28/15 0.86s}
+9. Ra1 e4 {+1.74/16 0.75s} 10. Rb1
+O-O-O {+2.34/17 0.91s, White makes an illegal move: d6d2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T20:26:05.139 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:39.559 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "25"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.7s} a6 2. e4 {+0.55/17 0.86s} a5 3. f4 {+1.25/20 1.5s} a4
+4. Nc3 {+1.23/20 2.7s} a3 5. b4 {+1.14/17 1.0s} b6 6. Nf3 {+1.63/18 2.0s} b5
+7. cxb5 {+2.59/19 1.5s} c6 8. Be2 {+2.69/22 5.2s} cxb5 9. d4 {+2.44/22 3.8s} d6
+10. Rb1 {+3.66/18 1.00s} d5 11. Nxd5 {+4.06/17 0.84s} Qxd5
+12. exd5 {+6.71/16 1.2s} e6
+13. Bxb5+ {+7.33/20 1.2s, Black makes an illegal move: e6d5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:28"]
+[GameEndTime "2026-01-10T20:26:14.547 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:45.671 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "28"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.3s} 2. Rb1 Nc6 {+0.42/15 0.76s} 3. Ra1 d5 {+0.89/19 2.3s}
+4. Nxd5 Nxd5 {+4.25/21 2.4s} 5. Rb1 Nf6 {+4.72/20 1.9s} 6. Ra1
+h6 {+4.90/20 1.1s} 7. Rb1 Bd7 {+5.29/19 1.7s} 8. Ra1 e5 {+5.20/20 2.6s} 9. Rb1
+a5 {+5.62/19 1.5s} 10. Ra1 Be6 {+5.58/20 3.3s} 11. Rb1 a4 {+6.01/17 0.41s}
+12. Ra1 a3 {+5.74/19 4.5s} 13. bxa3 Be7 {+5.68/17 1.1s} 14. Rb1
+O-O {+5.09/20 4.0s, White makes an illegal move: e6a2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:26"]
+[GameEndTime "2026-01-10T20:26:16.056 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:49.351 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "35"]
+[TimeControl "50/50"]
+
+1. d4 {+0.35/21 2.8s} a6 2. e4 {+0.72/16 0.37s} a5 3. Nd2 {+1.43/20 2.7s} a4
+4. a3 {+1.00/21 3.6s} b6 5. Bd3 {+1.57/17 1.1s} b5 6. Qe2 {+2.62/16 0.39s} b4
+7. c3 {+3.65/19 1.2s} bxa3 8. bxa3 {+1.71/19 2.5s} c6 9. h4 {+1.97/18 1.5s} c5
+10. h5 {+2.61/20 1.3s} cxd4 11. Bb2 {+2.33/18 0.96s} dxc3
+12. Bxc3 {+1.38/20 1.4s} d6 13. Nc4 {+1.81/15 0.85s} d5 14. exd5 {+3.62/20 1.6s}
+Qxd5 15. Nf3 {+5.28/17 0.43s} Qxd3 16. Qxd3 {+7.02/20 1.4s} e6
+17. Rd1 {+7.74/21 2.1s} Bxa3 18. Qd8# {+M1/20 0.38s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T20:26:34.108 台北標準時間"]
+[GameStartTime "2026-01-10T20:25:58.263 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "44"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.3s} 2. Rb1 d5 {+0.22/17 0.59s} 3. Nxd5
+Qxd5 {+4.40/21 1.6s} 4. Ra1 Qd8 {+4.48/19 0.58s} 5. Rb1 e5 {+4.34/19 1.9s}
+6. Ra1 Nf6 {+4.63/21 2.3s} 7. Rb1 Bd6 {+5.27/18 1.2s} 8. Ra1 h6 {+5.44/19 1.6s}
+9. Rb1 a5 {+5.48/18 1.2s} 10. Ra1 Be6 {+5.77/18 1.4s} 11. Rb1 a4 {+5.84/19 3.3s}
+12. Ra1 a3 {+6.19/18 1.4s} 13. bxa3 Bxa3 {+5.75/19 4.4s} 14. Bxa3
+Qd4 {+5.36/20 0.92s} 15. Rb1 Rxa3 {+4.65/16 0.44s} 16. Rxb7 Ra8 {+4.62/20 3.5s}
+17. Rxb8+ Rxb8 {+5.57/20 1.2s} 18. Qc1 Qd8 {+6.73/20 2.3s} 19. Qd1
+Bd5 {+5.83/18 1.6s} 20. Qc1 c5 {+5.97/18 1.6s} 21. Qd1 c4 {+5.77/17 0.78s}
+22. Qc1 O-O {+6.60/18 0.54s, White makes an illegal move: d5g2} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:11"]
+[GameEndTime "2026-01-10T20:26:16.301 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:05.143 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "15"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.7s} a6 2. c3 {+0.65/15 0.36s} a5 3. Bc4 {+1.14/18 1.1s} a4
+4. Nf3 {+1.16/18 0.85s} a3 5. Nxa3 {+1.82/18 1.1s} Rxa3 6. Qe2 {+3.38/19 1.2s}
+Rxa2 7. Bxa2 {+4.10/20 1.7s} b6
+8. O-O {+4.08/20 2.2s, Black makes an illegal move: a2f7} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T20:26:40.054 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:14.550 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "30"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.2s} 2. Nxd5 Qxd5 {+3.50/21 1.7s} 3. Rb1 e5 {+5.01/20 1.1s}
+4. Ra1 f5 {+4.59/20 2.6s} 5. Rb1 Be7 {+4.75/18 0.91s} 6. Ra1 Nc6 {+5.06/19 2.3s}
+7. Rb1 Qxa2 {+6.16/17 0.49s} 8. Ra1 Qf7 {+6.91/18 1.5s} 9. Rxa7
+Rxa7 {+6.70/22 5.5s} 10. Nh3 Nh6 {+7.15/18 0.82s} 11. Rg1 Ra6 {+8.00/19 0.98s}
+12. Rh1 Ng4 {+7.65/20 1.8s} 13. Rg1 Ra1 {+7.89/19 0.98s} 14. Rh1
+Be6 {+8.06/22 2.9s} 15. Rg1
+O-O {+8.26/18 0.86s, White makes an illegal move: a1c1} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:33"]
+[GameEndTime "2026-01-10T20:26:49.977 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:16.059 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "39"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.7s} a6 2. Nf3 {+0.61/13 0.41s} a5 3. d4 {+1.45/19 2.8s} a4
+4. Nc3 {+1.56/21 2.8s} a3 5. Bd3 {+1.53/17 1.3s} axb2 6. Bxb2 {+1.14/19 1.6s}
+Rxa2 7. Rxa2 {+6.21/19 1.7s} b6 8. Qa1 {+6.26/19 2.9s} b5 9. Ke2 {+6.52/18 1.0s}
+b4 10. Nd1 {+6.07/19 1.1s} b3 11. cxb3 {+5.57/21 4.6s} c6 12. h3 {+6.21/20 3.4s}
+c5 13. d5 {+6.30/17 0.77s} c4 14. bxc4 {+7.13/20 1.0s} d6
+15. Bxg7 {+7.64/20 1.4s} Bxg7 16. Qb1 {+8.12/19 0.83s} Bxh3
+17. Rxh3 {+6.37/20 0.82s} e6 18. c5 {+7.50/19 0.57s} dxc5
+19. Ne3 {+7.80/19 1.1s} exd5
+20. Qb5+ {+7.52/19 1.2s, Black makes an illegal move: d5e4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:42"]
+[GameEndTime "2026-01-10T20:26:58.787 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:16.305 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "48"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.3s} 2. Rb1 Nf6 {+0.22/17 0.50s} 3. Ra1 d5 {+0.76/17 0.59s}
+4. Nxd5 Nxd5 {+4.66/20 1.7s} 5. Rb1 Nf6 {+4.51/20 3.0s} 6. Ra1
+Nbd7 {+4.90/17 0.44s} 7. Rb1 a5 {+4.98/21 3.3s} 8. Ra1 h6 {+5.25/20 2.5s} 9. Rb1
+a4 {+5.53/17 0.37s} 10. Ra1 Qa5 {+5.73/19 1.3s} 11. Rb1 e5 {+5.21/20 2.6s}
+12. Ra1 b5 {+5.68/18 1.6s} 13. Rb1 Qc7 {+5.52/19 2.8s} 14. Ra1
+Be7 {+6.08/19 2.4s} 15. Rb1 Bd6 {+6.09/19 3.0s} 16. Ra1 Ra7 {+6.44/17 0.87s}
+17. Rb1 e4 {+5.78/19 3.7s} 18. Ra1 Ne5 {+6.49/18 1.5s} 19. Rb1
+Qd8 {+6.75/18 2.4s} 20. Ra1 a3 {+6.97/17 1.0s} 21. bxa3 Ng6 {+6.16/17 2.4s}
+22. Rb1 Bg4 {+6.02/18 2.0s} 23. Rxb5 c5 {+6.72/17 0.58s} 24. Rxc5
+O-O {+6.92/19 0.60s, White makes an illegal move: d6c5} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T20:27:09.592 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:34.113 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "37"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.2s} a6 2. e3 {+0.45/25 2.8s} a5 3. Nc3 {+0.76/20 1.3s} a4
+4. Nf3 {+1.60/18 0.91s} a3 5. bxa3 {+1.90/19 1.2s} Rxa3 6. Bxa3 {+5.83/19 1.00s}
+b6 7. Be2 {+5.74/21 5.4s} b5 8. Nxb5 {+6.45/20 3.2s} c6 9. Bb2 {+6.34/21 3.9s}
+cxb5 10. cxb5 {+5.88/19 0.98s} d6 11. a4 {+6.33/20 1.8s} d5
+12. Qb3 {+6.77/18 0.85s} d4 13. b6 {+6.80/19 3.1s} dxe3 14. Rc1 {+6.89/20 1.8s}
+exd2+ 15. Nxd2 {+6.75/19 0.96s} Qxd2+ 16. Kf1 {+11.08/20 0.58s} Qxc1+
+17. Bxc1 {+7.23/23 1.0s} e6 18. Bf4 {+7.73/20 0.91s} e5
+19. Bb5+ {+7.47/19 0.58s, Black makes an illegal move: e5f4} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:31"]
+[GameEndTime "2026-01-10T20:27:11.253 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:40.057 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "33"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 Qxd5 {+3.83/21 1.4s} 3. Rb1
+Nf6 {+4.96/20 1.3s} 4. Ra1 e5 {+4.54/21 2.2s} 5. Rb1 Qxa2 {+6.05/18 0.42s}
+6. Ra1 Qxa1 {+7.05/22 2.0s} 7. Nh3 h5 {+7.35/20 2.2s} 8. Rg1 c6 {+7.36/20 2.8s}
+9. Rh1 Bg4 {+7.37/21 2.7s} 10. Rg1 Qa5 {+7.56/19 1.5s} 11. Rh1
+Bxh3 {+7.61/18 0.99s} 12. gxh3 g6 {+7.48/20 2.2s} 13. Bg2 Bg7 {+7.56/22 2.4s}
+14. Bxc6+ Nbd7 {+9.31/20 1.2s} 15. Bxd7+ Kxd7 {+7.55/20 1.4s} 16. Kf1
+Ke8 {+6.90/22 3.0s} 17. Qe1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:19"]
+[GameEndTime "2026-01-10T20:27:09.921 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:49.980 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "27"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 3.0s} a6 2. Nf3 {+0.55/17 0.82s} a5 3. Nc3 {+1.28/18 0.91s} a4
+4. h3 {+1.78/20 1.9s} a3 5. b4 {+1.54/19 1.9s} b6 6. b5 {+1.82/19 1.4s} c6
+7. e4 {+2.19/19 1.6s} cxb5 8. cxb5 {+2.36/20 1.1s} d6 9. Qc2 {+2.31/21 1.7s}
+Bxh3 10. gxh3 {+5.00/18 0.95s} d5 11. d4 {+5.20/19 1.2s} dxe4
+12. Nxe4 {+4.86/20 2.1s} Qxd4 13. Nxd4 {+9.33/18 0.37s} e6
+14. Qc8+ {+M13/22 1.1s, Black makes an illegal move: e6e5} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:12"]
+[GameEndTime "2026-01-10T20:27:11.253 台北標準時間"]
+[GameStartTime "2026-01-10T20:26:58.790 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "15"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.2s} 2. Rb1 e5 {+0.22/17 0.56s} 3. Ra1 d5 {+0.81/18 1.6s}
+4. Nxd5 cxd5 {+5.32/19 1.1s} 5. Rb1 Nc6 {+5.20/21 4.8s} 6. Ra1
+a5 {+5.57/18 1.3s} 7. Rb1 Bf5 {+5.58/19 1.8s} 8. Ra1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[GameDuration "00:00:01"]
+[GameEndTime "2026-01-10T20:27:11.253 台北標準時間"]
+[GameStartTime "2026-01-10T20:27:09.595 台北標準時間"]
+[PlyCount "0"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+{No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:01"]
+[GameEndTime "2026-01-10T20:27:11.253 台北標準時間"]
+[GameStartTime "2026-01-10T20:27:09.924 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "3"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/20 1.1s} 2. Nxd5 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:42"]
+[GameEndTime "2026-01-10T22:47:59.060 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:16.603 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "62"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.10/19 1.1s} 2. Rb1 Nc6 {+0.50/19 1.1s} 3. Ra1 a6 {+0.88/17 0.61s}
+4. Rb1 d5 {+1.24/18 0.83s} 5. Nxd5 Qxd5 {+4.70/23 4.4s} 6. Ra1
+Bd7 {+5.05/19 1.0s} 7. Rb1 h5 {+6.58/18 0.37s} 8. Ra1 e5 {+5.29/20 1.8s} 9. Rb1
+Na7 {+7.09/17 0.37s} 10. Ra1 Qe6 {+5.32/22 5.6s} 11. Rb1 h4 {+6.21/17 0.45s}
+12. Ra1 Qd6 {+5.59/21 4.9s} 13. Rb1 Be6 {+5.71/18 1.6s} 14. Ra1
+g5 {+5.74/20 3.2s} 15. Rb1 g4 {+6.01/18 1.2s} 16. Ra1 h3 {+6.66/20 1.3s}
+17. Nxh3 gxh3 {+6.70/19 0.95s} 18. gxh3 e4 {+7.14/17 1.3s} 19. Rb1
+O-O-O {+7.23/19 2.6s} 20. Ra1 Kb8 {+7.42/17 1.2s} 21. Rb1 Nc6 {+7.86/16 0.57s}
+22. Ra1 Ne5 {+8.38/17 1.1s} 23. Rb1 Be7 {+8.28/16 0.48s} 24. Ra1
+Nc4 {+9.89/18 1.1s} 25. Rb1 Nd5 {+9.40/14 0.23s} 26. Ra1 a5 {+9.36/19 0.66s}
+27. Rb1 Bh4 {+10.25/18 0.60s} 28. Ra1 Rhg8 {+M3/21 0.20s} 29. Rb1
+Bxf2+ {+M3/21 0.30s} 30. Kxf2 Qf4+ {+M3/22 0.94s} 31. Ke1
+Qh4# {+M1/245 0.14s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T22:47:43.608 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:16.518 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "35"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 2.9s} a6 2. Nf3 {+0.78/16 0.34s} a5 3. Be2 {+1.46/20 1.5s} a4
+4. d4 {+1.51/20 1.3s} a3 5. b4 {+2.04/17 0.62s} b6 6. O-O {+2.27/23 2.5s} b5
+7. Bxa3 {+3.70/18 0.54s} Rxa3 8. Nxa3 {+4.71/21 1.5s} c6 9. c4 {+4.72/21 3.4s}
+bxc4 10. d5 {+4.73/19 1.1s} cxd5 11. Rc1 {+4.53/21 2.2s} dxe4
+12. Nd2 {+3.51/21 1.5s} c3 13. Ndc4 {+3.92/22 1.6s} c2 14. Qd5 {+4.62/18 0.65s}
+e3 15. Nxc2 {+5.27/20 1.6s} exf2+ 16. Rxf2 {+3.90/23 1.8s} d6
+17. Nxd6+ {+13.98/20 0.99s} exd6 18. Qxf7# {+M1/19 0.94s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:48"]
+[GameEndTime "2026-01-10T22:48:04.811 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:16.594 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "64"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/20 1.1s} 2. Rb1 e6 {+0.50/22 2.4s} 3. Ra1 e5 {+0.76/15 0.35s}
+4. Rb1 d5 {+1.45/18 0.64s} 5. Nxd5 Nxd5 {+4.85/22 2.2s} 6. Ra1
+e4 {+4.80/20 1.8s} 7. Rb1 Bd6 {+4.98/19 1.1s} 8. Ra1 c6 {+5.29/19 1.2s} 9. Rb1
+Qe7 {+5.51/19 1.2s} 10. Ra1 O-O {+5.65/21 2.4s} 11. Rb1 b6 {+5.89/19 2.7s}
+12. Ra1 a5 {+5.72/21 4.6s} 13. Rb1 Nf6 {+6.12/18 1.1s} 14. Ra1
+a4 {+6.10/18 1.4s} 15. Rb1 Re8 {+6.28/19 3.4s} 16. Ra1 c5 {+6.57/17 0.79s}
+17. Rb1 Be6 {+6.34/19 3.6s} 18. Ra1 Bc8 {+6.62/17 0.94s} 19. Rb1
+Ba6 {+6.27/18 3.0s} 20. Ra1 b5 {+6.61/17 2.3s} 21. Rb1 Qc7 {+6.68/17 1.3s}
+22. Ra1 Nc6 {+6.79/16 0.59s} 23. Rb1 Bc8 {+6.73/18 1.9s} 24. Ra1
+h5 {+7.63/17 1.1s} 25. Rb1 Be6 {+7.38/18 1.4s} 26. Ra1 e3 {+7.71/18 0.60s}
+27. dxe3 Be5 {+7.30/17 1.0s} 28. Rb1 Bxa2 {+7.66/18 0.60s} 29. Ra1
+Rad8 {+8.10/17 0.69s} 30. Qxd8 Rxd8 {+9.33/19 0.49s} 31. Rxa2 Qd6 {+M5/17 0.21s}
+32. Rxa4 Qd1# {+M1/245 0.055s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:30"]
+[GameEndTime "2026-01-10T22:47:47.088 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:16.602 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "49"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 2.9s} a6 2. c4 {+0.26/21 1.3s} a5 3. d4 {+0.75/19 0.84s} a4
+4. a3 {+1.52/20 1.5s} b6 5. Nf3 {+1.77/19 0.81s} b5 6. cxb5 {+3.21/18 0.42s} c6
+7. h3 {+3.39/20 1.4s} cxb5 8. Bd3 {+3.36/20 1.2s} b4 9. Bd2 {+3.58/19 0.62s}
+bxa3 10. Rxa3 {+2.74/24 3.7s} d6 11. b4 {+3.92/19 0.86s} axb3
+12. Rxa8 {+6.41/19 1.2s} Bxh3 13. Bb5+ {+9.53/21 1.0s} Bd7
+14. Qe2 {+9.00/22 1.2s} Bxb5 15. Qxb5+ {+10.77/21 1.1s} Nd7
+16. Qb7 {+12.50/21 2.0s} Qxa8 17. Qxa8+ {+M15/23 1.4s} Nb8
+18. O-O {+M11/47 0.53s} b2 19. Kh1 {+M15/21 2.9s} d5 20. Qxb8+ {+M11/33 0.35s}
+Kd7 21. Ne5+ {+M9/75 0.48s} Ke6 22. Qc8+ {+M7/66 0.49s} Kf6
+23. Qa6+ {+M9/40 0.89s} Kf5 24. e4+ {+M3/45 0.58s} dxe4
+25. g4# {+M1/48 0.52s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:49"]
+[GameEndTime "2026-01-10T22:48:32.753 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:43.612 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "92"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.08/20 1.2s} 2. Rb1 c5 {+0.52/18 1.2s} 3. Ra1 d5 {+1.01/18 0.42s}
+4. Nxd5 Qxd5 {+4.53/22 1.5s} 5. Rb1 e5 {+5.41/21 1.2s} 6. Ra1
+Bd7 {+5.00/21 2.6s} 7. Rb1 Bc8 {+6.19/18 0.52s} 8. Ra1 h5 {+4.95/23 5.1s} 9. Rb1
+Be6 {+5.69/20 0.86s} 10. Ra1 Nc6 {+5.76/21 1.5s} 11. Rb1 e4 {+6.98/18 0.46s}
+12. Ra1 h4 {+6.16/21 3.8s} 13. Rb1 h3 {+7.16/18 0.50s} 14. Nxh3
+Qxa2 {+6.52/22 3.8s} 15. Ra1 Qd5 {+7.01/19 0.94s} 16. Rxa7 Rxa7 {+6.69/21 1.1s}
+17. Rg1 Qd8 {+7.34/22 2.7s} 18. Rh1 Ra1 {+7.52/19 0.78s} 19. Rg1
+e3 {+7.82/19 0.78s} 20. dxe3 Ra8 {+8.54/21 1.0s} 21. Qxd8+ Kxd8 {+6.77/22 1.8s}
+22. Bd2 Ra1+ {+8.83/17 0.42s} 23. Bc1 Bxh3 {+8.76/18 0.75s} 24. gxh3
+Rh5 {+8.65/19 0.49s} 25. Rxg7 Rxc1+ {+M5/20 0.49s} 26. Kd2 Bxg7 {+9.51/22 2.9s}
+27. Kxc1 Ke7 {+8.68/21 1.6s} 28. Kd1 Rd5+ {+8.38/19 0.52s} 29. Ke1
+Rd7 {+10.79/21 0.96s} 30. Bg2 Ne8 {+8.01/21 0.78s} 31. Bxc6
+bxc6 {+7.67/21 0.81s} 32. Kf1 Bxb2 {+7.91/21 0.88s} 33. Kg1 Kf6 {+8.06/23 1.3s}
+34. Kg2 Re7 {+7.92/20 0.42s} 35. c3 Bxc3 {+8.03/20 0.48s} 36. f3
+Rxe3 {+9.84/20 0.91s} 37. Kg3 c4 {+11.61/18 0.41s} 38. Kg4 Bd4 {+M15/41 0.084s}
+39. f4 Rxe2 {+M11/40 0.12s} 40. h4 c3 {+M13/44 0.13s} 41. h3 Ba7 {+M9/56 0.13s}
+42. f5 Rh2 {+M9/63 0.14s} 43. Kg3 Rb2 {+M9/62 0.14s} 44. Kg4 c5 {+M9/70 0.14s}
+45. Kg3 c2 {+M7/81 0.15s} 46. Kg4
+c1=Q {+M7/42 0.008s, White makes an illegal move: c2c1q} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T22:48:01.710 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:47.091 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "19"]
+[TimeControl "50/50"]
+
+1. d4 {+0.38/23 2.6s} a6 2. Nf3 {+0.71/19 0.78s} a5 3. e4 {+1.42/17 0.44s} a4
+4. c4 {+1.50/21 2.7s} a3 5. Nxa3 {+2.25/20 1.2s} Rxa3 6. c5 {+3.61/21 1.6s} Rxf3
+7. Bd2 {-0.84/19 1.7s} Rxf2 8. Qb3 {-3.49/21 1.4s} Rxf1+ 9. Rxf1 {-4.27/21 1.7s}
+b6 10. Qxf7# {+M1/19 0.54s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:48"]
+[GameEndTime "2026-01-10T22:48:47.719 台北標準時間"]
+[GameStartTime "2026-01-10T22:47:59.065 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "92"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.08/20 1.2s} 2. Nxd5 Qxd5 {+3.96/21 1.4s} 3. Rb1
+Qxa2 {+4.82/20 1.5s} 4. Ra1 Qxa1 {+6.10/22 1.5s} 5. Nh3 e5 {+6.69/22 1.7s}
+6. Rg1 h6 {+7.13/20 1.7s} 7. Rh1 c6 {+7.49/21 2.2s} 8. Rg1 Be7 {+7.17/21 3.0s}
+9. Rh1 Nf6 {+7.51/20 1.9s} 10. Rg1 Qa5 {+7.77/20 1.4s} 11. Rh1
+e4 {+7.93/19 1.9s} 12. Rg1 Be6 {+7.78/21 3.5s} 13. Rh1 g5 {+7.91/21 3.1s}
+14. Nxg5 Qxg5 {+8.84/22 1.5s} 15. Rg1 Bg4 {+8.84/20 1.3s} 16. Rh1
+Nbd7 {+9.01/23 2.0s} 17. Rg1 Qd5 {+9.13/20 1.6s} 18. Rh1 Rg8 {+9.31/20 0.66s}
+19. Rg1 Qd6 {+9.40/22 2.5s} 20. Rh1 a5 {+9.27/19 0.71s} 21. Rg1
+Qe6 {+10.04/19 0.68s} 22. Rh1 Rc8 {+9.59/21 2.5s} 23. Rg1 Rd8 {+9.46/20 1.8s}
+24. Rh1 a4 {+10.24/20 0.96s} 25. Rg1 Nc5 {+10.15/19 0.59s} 26. Rh1
+b5 {+10.00/19 0.46s} 27. Rg1 Rd7 {+10.52/20 0.88s} 28. Rh1 Bd8 {+9.87/18 0.40s}
+29. Rg1 Be7 {+10.18/19 0.46s} 30. Rh1 e3 {+9.92/18 0.48s} 31. dxe3
+Rxd1+ {+M23/18 0.29s} 32. Kxd1 Nfe4 {+M19/18 0.28s} 33. Bd2 a3 {+M9/36 0.12s}
+34. bxa3 f5 {+M7/43 0.17s} 35. Ke1 Na4 {+M7/50 0.19s} 36. Kd1
+Nac3+ {+M7/67 0.19s} 37. Bxc3 Nxc3+ {+M7/36 0.20s} 38. Kd2 Qa2 {+M5/46 0.20s}
+39. Kxc3 Qa1+ {+M5/39 0.25s} 40. Kd3 Qg7 {+M7/44 0.20s} 41. Rg1
+Bxa3 {+M9/28 0.22s} 42. Rh1 Qb2 {+M3/61 0.21s} 43. Rg1 Qf6 {+M3/245 0.11s}
+44. Rh1 Qd6+ {+M3/245 0.13s} 45. Kc3 b4+ {+M3/245 0.15s} 46. Kc4
+Qd5# {+M1/61 0.30s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T22:48:27.548 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:01.714 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "35"]
+[TimeControl "50/50"]
+
+1. e4 {+0.38/23 2.6s} a6 2. Nc3 {+0.83/16 0.44s} a5 3. Be2 {+1.51/20 1.6s} a4
+4. Nf3 {+1.22/20 2.6s} a3 5. O-O {+1.34/18 1.1s} axb2 6. Bxb2 {+1.05/21 1.5s}
+Rxa2 7. Nxa2 {+6.42/21 1.2s} b6 8. d4 {+6.01/20 2.5s} b5 9. Re1 {+6.31/19 1.1s}
+b4 10. e5 {+6.56/22 2.4s} b3 11. d5 {+6.57/20 1.8s} bxa2
+12. Rxa2 {+6.07/19 1.2s} c6 13. Ra8 {+7.20/20 1.3s} cxd5 14. Bb5 {+7.18/21 2.1s}
+d4 15. Bxd4 {+7.84/20 0.46s} e6 16. Rxb8 {+7.44/19 0.60s} f6
+17. Bb6 {+10.44/20 0.79s} Qxb6 18. Qxd7# {+M1/20 0.47s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:35"]
+[GameEndTime "2026-01-10T22:48:40.560 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:04.815 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "54"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.12/21 1.1s} 2. Rb1 e5 {+0.24/18 0.74s} 3. Ra1 d5 {+0.83/18 1.2s}
+4. Nxd5 Qxd5 {+5.22/20 1.8s} 5. Rb1 Qxa2 {+5.54/19 0.58s} 6. Ra1
+Qxa1 {+6.42/22 1.8s} 7. Nh3 Bxh3 {+7.03/22 2.4s} 8. gxh3 Be7 {+6.74/22 3.8s}
+9. Bg2 Qa6 {+6.59/21 2.4s} 10. Bxc6+ Nxc6 {+9.04/20 0.95s} 11. Kf1
+Nd4 {+8.92/21 1.7s} 12. Qe1 Nf6 {+9.59/22 1.3s} 13. Qd1 e4 {+9.24/20 2.3s}
+14. Qe1 O-O {+9.85/22 3.0s} 15. Qd1 Qe6 {+9.58/20 2.1s} 16. Qe1
+Qxh3+ {+M9/20 0.84s} 17. Kg1 a5 {+M7/21 0.99s} 18. Qf1 Qd7 {+12.69/21 2.8s}
+19. Qe1 Qf5 {+M11/19 0.27s} 20. Qf1 Qg4+ {+14.74/20 0.46s} 21. Qg2
+Qxe2 {+12.61/21 2.0s} 22. Qxg7+ Kxg7 {+M9/78 0.23s} 23. Kg2 Qh5 {+M5/109 0.36s}
+24. Rg1 Rg8 {+M9/67 0.38s} 25. Rh1 Qf3+ {+M3/245 0.13s} 26. Kg1
+Kh6+ {+M3/245 0.015s} 27. Kf1 Qe2# {+M1/245 0.010s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T22:48:45.840 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:27.550 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "29"]
+[TimeControl "50/50"]
+
+1. e4 {+0.38/23 2.4s} a6 2. c3 {+0.83/16 0.41s} a5 3. c4 {+0.86/19 1.2s} a4
+4. d4 {+0.96/20 1.1s} a3 5. Nxa3 {+1.44/19 1.1s} Rxa3 6. bxa3 {+2.96/22 1.6s} b6
+7. Rb1 {+3.60/19 0.96s} b5 8. Qc2 {+4.86/21 1.9s} bxc4 9. Bxc4 {+5.94/20 0.72s}
+c6 10. Rxb8 {+6.36/18 0.69s} c5 11. Nf3 {+7.61/23 1.9s} cxd4
+12. Bb5 {+14.36/22 0.90s} d3 13. Bxd3 {+M9/23 1.3s} d6 14. Rxc8 {+M9/43 0.53s}
+Qxc8 15. Qxc8# {+M1/20 1.6s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:38"]
+[GameEndTime "2026-01-10T22:49:10.868 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:32.755 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "48"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.08/20 1.1s} 2. Rb1 a5 {+0.22/17 0.50s} 3. Ra1 g6 {+0.30/21 1.1s}
+4. Rb1 d5 {+0.42/16 0.40s} 5. Nxd5 Qxd5 {+4.79/21 1.5s} 6. Ra1
+Bg7 {+4.37/22 3.3s} 7. Rb1 Qd8 {+5.82/18 0.38s} 8. Ra1 a4 {+5.07/22 4.9s} 9. Rb1
+Nf6 {+5.11/19 2.6s} 10. Ra1 c5 {+5.97/18 0.80s} 11. Rb1 e5 {+5.69/20 4.4s}
+12. Ra1 Nc6 {+6.06/19 0.95s} 13. Rb1 Bd7 {+6.26/17 0.90s} 14. Ra1
+O-O {+6.47/19 2.2s} 15. Rb1 c4 {+6.88/18 1.6s} 16. Ra1 a3 {+6.88/18 1.6s}
+17. bxa3 c3 {+5.91/19 3.7s} 18. dxc3 h5 {+6.45/18 1.6s} 19. Qxd7
+Nxd7 {+7.89/20 0.94s} 20. Rb1 Nc5 {+8.00/20 1.5s} 21. Rxb7 Nxb7 {+9.00/19 0.47s}
+22. Bd2 e4 {+9.59/20 1.2s} 23. Kd1 Bxc3 {+M7/19 0.26s} 24. Ke1
+Qxd2# {+M1/51 0.30s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:46"]
+[GameEndTime "2026-01-10T22:49:26.844 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:40.563 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "67"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.38/23 2.6s} a6 2. d4 {+0.16/21 1.4s} a5 3. e4 {+0.85/19 1.7s} a4
+4. Nc3 {+1.18/23 2.5s} a3 5. bxa3 {+0.98/19 2.6s} Rxa3 6. Bxa3 {+5.60/18 0.46s}
+b6 7. Nge2 {+5.85/20 2.4s} b5 8. Qc1 {+5.88/20 1.6s} b4 9. h4 {+5.83/20 1.2s}
+bxa3 10. e5 {+3.43/20 3.0s} c6 11. Qd2 {+3.70/19 0.93s} c5
+12. Ne4 {+3.38/21 3.0s} cxd4 13. Rb1 {+3.53/21 2.0s} d3 14. cxd3 {+4.45/20 2.1s}
+d6 15. d4 {+5.35/18 0.59s} dxe5 16. dxe5 {+6.09/19 1.1s} Qxd2+
+17. Kxd2 {+4.81/24 2.0s} e6 18. N2c3 {+6.52/20 0.97s} f6
+19. Nd6+ {+6.19/16 0.26s} Bxd6 20. Bb5+ {+4.98/19 1.0s} Nd7
+21. exd6 {+5.02/19 1.1s} e5 22. Kd1 {+6.71/20 2.9s} e4 23. Nxe4 {+5.66/20 1.9s}
+f5 24. Rc1 {+6.85/19 0.65s} fxe4 25. Rh3 {+7.50/19 0.81s} e3
+26. Rxe3+ {+8.27/17 0.95s} Kf8 27. Rf3+ {+9.39/18 0.23s} Ndf6
+28. Rxf6+ {+M37/21 1.4s} gxf6 29. Rc7 {+10.49/19 0.81s} f5
+30. h5 {+7.12/16 0.43s} f4 31. Rxc8+ {+8.46/18 0.57s} Kf7
+32. d7 {+8.57/17 0.18s} f3 33. Rf8+ {+M15/21 0.24s} Kxf8
+34. d8=Q+ {+9.37/19 0.61s, Black makes an illegal move: d7d8q} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:37"]
+[GameEndTime "2026-01-10T22:49:23.433 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:45.844 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "50"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {-0.03/16 1.1s} 2. Nxd5 e6 {+3.66/20 1.8s} 3. Nxc7+
+Qxc7 {+3.06/23 1.4s} 4. Rb1 e5 {+3.60/20 1.3s} 5. Ra1 Be7 {+4.05/21 2.2s} 6. Rb1
+Nf6 {+4.27/19 0.84s} 7. Ra1 a6 {+4.39/19 1.6s} 8. Rb1 a5 {+4.63/18 1.6s} 9. Ra1
+Na6 {+4.66/19 1.6s} 10. Rb1 Nb4 {+5.02/18 1.1s} 11. Ra1 Bf5 {+7.59/19 1.1s}
+12. Rb1 Qxc2 {+8.56/20 1.2s} 13. Qxc2 Bxc2 {+6.34/23 5.2s} 14. Ra1
+Bd6 {+6.39/20 3.3s} 15. Rb1 Bxb1 {+8.28/17 0.76s} 16. Kd1 Bc2+ {+9.37/21 1.3s}
+17. Ke1 Nxa2 {+9.05/20 1.2s} 18. Nh3 O-O {+9.91/22 2.0s} 19. Rg1
+Rae8 {+9.68/21 1.4s} 20. Rh1 a4 {+9.88/19 0.90s} 21. Rg1 Nxc1 {+9.76/20 0.99s}
+22. Rh1 Be7 {+10.41/21 1.3s} 23. Rg1 Bb4 {+10.39/22 1.8s} 24. Rh1
+Nb3 {+M3/19 0.29s} 25. Rg1 Bxd2# {+M1/20 0.37s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:26"]
+[GameEndTime "2026-01-10T22:49:13.847 台北標準時間"]
+[GameStartTime "2026-01-10T22:48:47.723 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "25"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.2s} a6 2. Nf3 {+0.19/21 1.6s} a5 3. e4 {+0.89/22 1.6s} a4
+4. d4 {+1.08/22 2.7s} a3 5. bxa3 {+2.22/17 0.36s} Rxa3 6. Nxa3 {+5.98/20 1.4s}
+b6 7. c3 {+5.99/19 2.1s} b5 8. Ne5 {+6.74/22 2.0s} b4 9. cxb4 {+5.85/22 5.0s} c6
+10. Rb1 {+6.33/19 2.3s} c5 11. h4 {+7.17/18 1.3s} cxb4 12. Bc4 {+6.15/19 2.2s}
+bxa3 13. Bxf7# {+M1/17 0.36s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:36"]
+[GameEndTime "2026-01-10T22:49:47.449 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:10.951 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "48"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.02/19 1.1s} 2. Rb1 Nf6 {+0.61/14 0.50s} 3. Ra1 d5 {+1.38/15 0.69s}
+4. Nxd5 Qxd5 {+4.56/21 2.0s} 5. Rb1 Be7 {+6.09/18 0.50s} 6. Ra1
+e4 {+5.12/21 4.2s} 7. Rb1 a5 {+6.65/18 0.47s} 8. Ra1 h5 {+5.65/20 2.4s} 9. Rb1
+h4 {+6.78/18 0.81s} 10. Ra1 Bd7 {+6.11/19 1.7s} 11. Rb1 a4 {+6.87/17 0.42s}
+12. Ra1 Qh5 {+6.42/20 4.8s} 13. Rb1 O-O {+6.24/19 4.1s} 14. Ra1
+h3 {+6.25/18 2.0s} 15. Nxh3 c5 {+5.60/20 2.9s} 16. Rb1 e3 {+5.64/18 0.82s}
+17. dxe3 Bf5 {+5.83/18 1.7s} 18. Ra1 Qh7 {+5.60/17 1.1s} 19. Rb1
+Bxc2 {+6.31/17 0.73s} 20. Qxc2 Qxc2 {+8.73/18 1.00s} 21. Ra1 a3 {+9.10/20 0.83s}
+22. bxa3 Qc3+ {+M5/19 0.27s} 23. Bd2 Qxa1+ {+M3/21 1.1s} 24. Bc1
+Qxc1# {+M1/47 0.37s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:37"]
+[GameEndTime "2026-01-10T22:49:51.562 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:13.852 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "47"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.5s} a6 2. d4 {+0.76/18 0.94s} a5 3. Nc3 {+1.38/17 1.3s} a4
+4. Bf4 {+1.60/17 1.4s} a3 5. b3 {+1.18/20 4.0s} b6 6. Qf3 {+1.88/17 0.84s} b5
+7. O-O-O {+2.77/20 1.7s} b4 8. Nd5 {+2.07/16 0.79s} c6 9. Bc7 {+5.16/19 1.1s}
+Qxc7 10. Nxc7+ {+6.89/21 1.3s} Kd8 11. Kb1 {+7.13/21 1.7s} Kxc7
+12. c4 {+3.99/20 4.7s} bxc3 13. Qg3+ {+3.82/20 4.1s} Kb7 14. Bd3 {+4.03/19 2.2s}
+c2+ 15. Bxc2 {+3.95/21 3.3s} c5 16. b4 {+4.93/17 0.53s} cxb4
+17. Ne2 {+4.38/19 1.4s} b3 18. Bxb3 {+5.20/16 0.22s} Kb6
+19. Bd5 {+6.57/19 0.69s} Kb5 20. Nc3+ {+M9/31 0.27s} Kb6 21. Rd2 {+M25/22 1.0s}
+Ka6 22. Na4 {+M5/21 0.31s} Ka7 23. Qc7+ {+M3/55 0.29s} Ka6
+24. Bc4# {+M1/245 0.024s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:47"]
+[GameEndTime "2026-01-10T22:50:11.013 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:23.437 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "64"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 Nf6 {+0.58/16 0.54s} 3. Ra1 d5 {+1.27/15 0.49s}
+4. Nxd5 Qxd5 {+4.58/21 2.2s} 5. Rb1 Qxa2 {+6.04/18 0.55s} 6. Ra1
+Qd5 {+6.95/22 1.6s} 7. Rxa7 Rxa7 {+7.04/20 1.6s} 8. Nh3 Be7 {+8.42/20 1.2s}
+9. Rg1 Qc6 {+7.42/21 5.6s} 10. Rh1 O-O {+8.84/19 1.5s} 11. Rg1
+Ra8 {+7.90/20 4.2s} 12. Rh1 h6 {+8.69/18 1.0s} 13. Rg1 Bb4 {+7.76/20 4.4s}
+14. Rh1 Re8 {+8.34/17 0.79s} 15. Rg1 Ra6 {+7.84/20 3.3s} 16. Rh1
+h5 {+8.92/17 0.56s} 17. Rg1 Bd7 {+7.66/20 3.3s} 18. Rh1 Bg4 {+8.79/17 0.24s}
+19. Rg1 Qb6 {+8.13/18 1.1s} 20. Rh1 h4 {+8.83/19 0.91s} 21. Rg1
+Bc8 {+8.37/19 0.92s} 22. Rh1 Bf5 {+7.72/21 2.4s} 23. Rg1 g6 {+8.35/20 1.2s}
+24. Rh1 Nh7 {+8.58/18 0.60s} 25. Rg1 Nd7 {+7.78/18 1.3s} 26. Rh1
+Ndf6 {+8.49/17 0.37s} 27. Rg1 Bc8 {+8.80/19 1.0s} 28. Rh1 Bxh3 {+8.23/20 1.3s}
+29. gxh3 Kh8 {+7.86/19 1.0s} 30. Bg2 e4 {+7.76/18 0.81s} 31. Bxe4
+Nxe4 {+8.88/18 0.28s} 32. Kf1 Qxf2# {+M1/15 0.11s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:20"]
+[GameEndTime "2026-01-10T22:49:47.640 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:26.848 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "23"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e4 {+0.35/21 2.5s} a6 2. Nf3 {+0.65/15 0.39s} a5 3. d4 {+1.45/21 1.7s} a4
+4. a3 {+1.52/20 3.6s} b6 5. Nc3 {+2.12/19 1.2s} b5 6. Be3 {+3.52/17 0.41s} b4
+7. Nb1 {+3.24/19 1.5s} bxa3 8. Nxa3 {+1.61/20 2.3s} c6 9. Nc4 {+2.45/21 2.8s} a3
+10. Bd3 {+2.67/19 1.3s} axb2 11. Rxa8 {+6.17/20 1.2s} b1=Q
+12. Qxb1 {+8.32/20 1.8s, Black makes an illegal move: b2b1q} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:18"]
+[GameEndTime "2026-01-10T22:50:05.570 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:47.453 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "30"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 Nf6 {+0.83/15 0.51s} 3. Ra1
+Bb4 {+1.43/15 0.50s} 4. Rb1 Bc5 {+1.08/18 1.1s} 5. Ra1 Bf8 {+1.93/15 0.39s}
+6. Rb1 c6 {+1.31/19 1.7s} 7. Ra1 h6 {+1.38/17 1.2s} 8. Rb1 Bc5 {+1.64/18 1.5s}
+9. Ra1 d5 {+2.01/19 1.2s} 10. Nxd5 Bxf2+ {+5.78/19 0.55s} 11. Kxf2
+Ne4+ {+2.59/21 4.4s} 12. Kf3 cxd5 {+7.76/20 0.88s} 13. Rb1 Bg4+ {+M5/57 0.39s}
+14. Kxg4 Qg5+ {+M3/176 0.55s} 15. Kh3 Qh5# {+M1/19 2.1s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:40"]
+[GameEndTime "2026-01-10T22:50:27.719 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:47.644 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "51"]
+[TimeControl "50/50"]
+
+1. c4 {+0.35/21 2.5s} a6 2. d4 {+0.55/18 0.81s} a5 3. Nf3 {+1.26/19 0.81s} a4
+4. e4 {+1.51/22 3.4s} a3 5. Qc2 {+2.28/18 0.91s} axb2 6. Bxb2 {+0.96/20 2.5s}
+Rxa2 7. Rxa2 {+5.41/21 1.6s} b6 8. Nc3 {+5.78/21 3.2s} b5
+9. Ra1 {+6.27/18 0.33s} bxc4 10. Ne5 {+5.84/21 4.9s} c6 11. f3 {+5.82/19 3.7s}
+c5 12. Qd2 {+5.87/20 3.2s} cxd4 13. Qxd4 {+5.21/19 1.9s} d6
+14. Bxc4 {+8.01/18 0.26s} dxe5 15. Bxf7+ {+8.04/21 2.0s} Kxf7
+16. Qxd8 {+8.10/20 0.95s} e6 17. Qd1 {+9.12/21 1.0s} Kf6 18. Qb3 {+7.94/20 1.2s}
+Kf7 19. f4 {+8.46/20 0.71s} exf4 20. e5 {+7.83/18 0.40s} f3
+21. gxf3 {+8.20/20 0.87s} Ke7 22. Qxb8 {+10.88/20 0.67s} Ke8
+23. Qb5+ {+M23/20 0.79s} Bd7 24. Qb8+ {+M13/21 0.67s} Bc8
+25. Ra7 {+M23/22 0.31s} g6 26. Qxc8# {+M1/47 0.29s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:45"]
+[GameEndTime "2026-01-10T22:50:36.736 台北標準時間"]
+[GameStartTime "2026-01-10T22:49:51.565 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "68"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.11/18 1.1s} 2. Rb1 e5 {+0.22/17 0.51s} 3. Ra1 d5 {+1.00/18 1.1s}
+4. Nxd5 Qxd5 {+5.24/20 1.1s} 5. Rb1 Nf6 {+5.32/20 1.5s} 6. Ra1
+e4 {+5.08/21 2.3s} 7. Rb1 Bd6 {+6.29/18 0.57s} 8. Ra1 Be7 {+5.41/20 2.1s} 9. Rb1
+Qxa2 {+6.65/18 0.49s} 10. Ra1 Qd5 {+7.33/20 2.1s} 11. Rxa7 Rxa7 {+7.22/17 1.6s}
+12. Nh3 Ra8 {+7.71/21 2.8s} 13. Rg1 Nbd7 {+7.52/22 3.4s} 14. Rh1
+Qd6 {+7.66/22 2.2s} 15. Rg1 Nf8 {+7.99/20 1.9s} 16. Rh1 Ng6 {+8.19/21 1.9s}
+17. Rg1 b5 {+8.74/18 0.88s} 18. Rh1 Bd7 {+8.27/20 1.7s} 19. Rg1
+Bg4 {+8.76/21 2.2s} 20. Rh1 Bd7 {+8.23/20 1.3s} 21. Rg1 c5 {+8.79/20 1.8s}
+22. Rh1 O-O {+8.34/21 2.7s} 23. Rg1 Ra1 {+8.70/19 0.85s} 24. Rh1
+Ng4 {+9.10/20 0.80s} 25. Rg1 Bf6 {+9.10/18 0.60s} 26. Rh1 c4 {+10.15/18 0.64s}
+27. Rg1 h6 {+10.53/20 1.3s} 28. Rh1 Rd8 {+10.69/18 0.48s} 29. Rg1
+Re8 {+11.40/20 0.65s} 30. Rh1 N6e5 {+11.58/19 0.45s} 31. Rg1
+g6 {+11.01/19 0.54s} 32. Rh1 Nf3+ {+11.84/20 0.78s} 33. exf3
+exf3+ {+M11/20 0.39s} 34. Qe2 Rxc1# {+M1/59 0.24s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:10"]
+[GameEndTime "2026-01-10T22:50:16.354 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:05.573 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "13"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.0s} a6 2. Nf3 {+0.78/16 0.40s} a5 3. Bc4 {+1.42/19 1.3s} a4
+4. d4 {+1.22/20 2.4s} a3 5. Nxa3 {+1.87/21 1.8s} Rxa3 6. Ne5 {+3.78/19 1.4s}
+Rxa2 7. Bxf7# {+M1/23 0.51s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:46"]
+[GameEndTime "2026-01-10T22:50:57.937 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:11.017 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "66"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.10/19 1.1s} 2. Rb1 d5 {+0.50/19 1.2s} 3. Nxd5
+Nxd5 {+4.40/21 1.5s} 4. Ra1 e5 {+4.31/22 2.7s} 5. Rb1 Nb6 {+4.92/20 1.5s} 6. Ra1
+Nc6 {+4.80/22 3.2s} 7. Rb1 a5 {+5.28/19 0.92s} 8. Ra1 h5 {+5.25/20 3.1s} 9. Rb1
+e4 {+5.33/19 3.4s} 10. Ra1 Qd6 {+5.59/18 1.7s} 11. Rb1 Be7 {+5.65/19 1.4s}
+12. Ra1 Be6 {+6.09/17 0.92s} 13. Rb1 a4 {+6.45/17 0.79s} 14. Ra1
+O-O {+6.35/19 4.2s} 15. Rb1 Rfd8 {+6.79/18 0.80s} 16. Ra1 Re8 {+7.59/17 0.84s}
+17. Rb1 a3 {+6.90/21 3.5s} 18. bxa3 e3 {+5.85/17 1.1s} 19. Rxb6
+cxb6 {+6.79/19 1.9s} 20. dxe3 Qxd1+ {+7.14/19 2.1s} 21. Kxd1
+Ne5 {+7.16/19 0.90s} 22. Bd2 Red8 {+7.21/20 0.74s} 23. Ke1 Ng4 {+8.31/21 1.3s}
+24. Kd1 Bxa3 {+M15/20 0.58s} 25. Ke1 Bf8 {+M15/20 0.61s} 26. Kd1
+Nxf2+ {+M9/24 0.35s} 27. Ke1 Ng4 {+M13/20 0.73s} 28. Kd1 Nf2+ {+M9/23 0.23s}
+29. Ke1 Ng4 {+M9/22 1.5s} 30. Kd1 Rxd2+ {+M9/28 0.13s} 31. Kxd2
+Rd8+ {+M11/21 0.68s} 32. Kc3 Nf2 {+M11/21 0.85s} 33. Nh3
+Nd1# {+M1/19 0.42s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:39"]
+[GameEndTime "2026-01-10T22:50:56.257 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:16.357 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "55"]
+[TimeControl "50/50"]
+
+1. e3 {+0.38/23 2.7s} a6 2. d4 {+0.23/20 1.1s} a5 3. Nc3 {+0.90/23 2.1s} a4
+4. Bb5 {+0.97/18 1.4s} a3 5. Nf3 {+0.43/22 2.3s} axb2 6. Bxb2 {+0.44/21 1.2s}
+Rxa2 7. Nxa2 {+5.65/22 1.6s} b6 8. Bd3 {+5.56/20 1.6s} b5 9. O-O {+5.84/19 1.3s}
+b4 10. Nc1 {+6.05/19 1.1s} b3 11. c3 {+6.50/18 1.0s} c6
+12. Nxb3 {+7.00/18 0.81s} c5 13. Ba3 {+6.63/20 4.3s} cxd4
+14. cxd4 {+6.86/21 4.3s} d6 15. Rc1 {+7.09/19 1.4s} d5 16. Nbd2 {+8.04/19 0.79s}
+e6 17. Bxf8 {+7.66/20 2.3s} Kxf8 18. Ne5 {+6.66/21 3.2s} f6
+19. Qb3 {+6.91/18 0.93s} fxe5 20. Qxb8 {+7.04/19 0.75s} exd4
+21. Rxc8 {+M25/21 0.79s} Qxc8 22. Qxc8+ {+M23/19 0.95s} Kf7
+23. Re1 {+M13/21 0.86s} dxe3 24. fxe3 {+M9/22 0.42s} d4 25. Qb7+ {+M9/55 0.28s}
+Kf8 26. Rf1+ {+M7/57 0.29s} Ke8 27. Bb5+ {+M3/245 0.15s} Kd8
+28. Qd7# {+M1/245 0.009s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:27"]
+[GameEndTime "2026-01-10T22:50:55.306 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:27.722 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "28"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.08/20 1.3s} 2. Rb1 d5 {+0.22/17 0.50s} 3. Nxd5
+cxd5 {+4.33/21 1.5s} 4. Ra1 e5 {+5.22/19 1.0s} 5. Rb1 Nc6 {+5.16/21 4.7s} 6. Ra1
+a6 {+5.51/18 0.97s} 7. Rb1 a5 {+5.61/21 3.4s} 8. Ra1 Nf6 {+5.78/19 1.7s} 9. Rb1
+Be7 {+6.01/18 0.98s} 10. Ra1 a4 {+6.20/19 2.5s} 11. Rb1 h6 {+6.48/17 0.97s}
+12. Ra1 Ne4 {+6.42/20 3.6s} 13. Rb1 Bh4 {+6.08/20 4.2s} 14. Ra1
+Bxf2# {+M1/20 0.34s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:24"]
+[GameEndTime "2026-01-10T22:51:01.328 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:36.740 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "33"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 2.8s} a6 2. e3 {+0.45/25 2.8s} a5 3. d4 {+0.76/20 1.1s} a4
+4. Be2 {+1.64/21 2.1s} a3 5. b4 {+2.02/21 0.96s} b6 6. Nc3 {+2.19/20 1.9s} b5
+7. Nf3 {+3.31/18 0.43s} bxc4 8. b5 {+1.85/20 1.4s} c6 9. O-O {+1.48/20 2.7s}
+cxb5 10. d5 {+2.03/16 0.94s} b4 11. Nb5 {+1.11/19 1.0s} b3
+12. d6 {+4.01/20 1.2s} bxa2 13. Bxa3 {+5.47/19 0.73s} Rxa3
+14. Nc7+ {+4.74/20 1.8s} Qxc7 15. dxc7 {+4.91/21 1.6s} Rxe3
+16. Qa4 {+M29/20 0.51s} Rxe2
+17. cxb8=Q {+M21/20 0.71s, Black makes an illegal move: c7b8q} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:49"]
+[GameEndTime "2026-01-10T22:51:44.576 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:55.309 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "84"]
+[TimeControl "50/50"]
+
+1. Nc3 c6 {+0.10/19 1.1s} 2. Rb1 e5 {+0.22/19 1.1s} 3. Ra1 d5 {+0.86/16 0.82s}
+4. Nxd5 cxd5 {+5.24/21 1.6s} 5. Rb1 Be7 {+5.22/21 4.3s} 6. Ra1
+Nf6 {+5.38/19 1.4s} 7. Rb1 Nc6 {+5.70/19 1.7s} 8. Ra1 Bd6 {+6.05/18 2.1s} 9. Rb1
+a5 {+6.18/18 1.3s} 10. Ra1 h6 {+6.20/18 2.0s} 11. Rb1 a4 {+6.33/20 4.8s} 12. Ra1
+Bd7 {+6.55/18 1.7s} 13. Rb1 O-O {+6.61/19 2.2s} 14. Ra1 d4 {+6.79/17 1.1s}
+15. Rb1 Qe7 {+7.06/17 1.4s} 16. Ra1 b5 {+7.23/17 1.4s} 17. Rb1
+Bc7 {+7.36/17 0.92s} 18. Ra1 e4 {+6.93/18 3.3s} 19. Rb1 Qc5 {+7.57/18 2.2s}
+20. Ra1 Rfe8 {+7.68/17 1.2s} 21. Rb1 Ba5 {+9.08/17 0.78s} 22. Ra1
+a3 {+8.75/18 2.0s} 23. bxa3 e3 {+9.07/16 0.42s} 24. fxe3 dxe3 {+9.77/20 1.8s}
+25. Rb1 Re4 {+10.52/18 0.85s} 26. Rxb5 Qd6 {+8.55/19 1.3s} 27. Rxa5
+exd2+ {+6.51/19 0.65s} 28. Bxd2 Nxa5 {+6.01/17 0.34s} 29. Bxa5
+Qxd1+ {+5.93/17 0.40s} 30. Kxd1 Ng4 {+5.87/18 0.41s} 31. Kd2
+Rxa5 {+6.38/17 0.29s} 32. Nh3 Rc5 {+7.06/19 0.72s} 33. Rg1 Rce5 {+7.47/16 0.22s}
+34. Rh1 Rc5 {+7.36/17 0.23s} 35. Rg1 Rd4+ {+7.39/13 0.093s} 36. Ke1
+Ne3 {+7.58/18 0.48s} 37. Kf2 Re5 {+7.59/16 0.12s} 38. Rh1 Nxc2 {+7.05/17 0.32s}
+39. Rg1 g5 {+8.05/14 0.050s} 40. Nxg5 Rxg5 {+7.42/13 0.021s} 41. Rh1
+Kh8 {+M7/13 0.017s} 42. Rg1 Rf4# {+M1/12 0.006s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T22:51:21.880 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:56.259 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "33"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 2.8s} a6 2. d4 {+0.75/19 0.92s} a5 3. Nc3 {+1.45/18 0.93s} a4
+4. a3 {+1.55/18 1.6s} b6 5. Bg5 {+2.09/18 1.2s} b5 6. Bf4 {+2.79/17 0.42s} b4
+7. axb4 {+2.96/20 1.7s} a3 8. bxa3 {+4.14/20 1.2s} Rxa3 9. Bd2 {+5.82/21 1.3s}
+Rxa1 10. Qxa1 {+2.70/21 1.6s} c6 11. Be2 {+4.64/18 0.50s} c5
+12. bxc5 {+5.00/21 1.5s} d6 13. Qa7 {+6.21/20 2.0s} dxc5
+14. Qxb8 {+6.41/22 2.7s} cxd4 15. Nd5 {+8.77/20 1.6s} Qxd5
+16. Qxc8+ {+M3/42 0.35s} Qd8 17. Bb5# {+M1/24 3.3s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:40"]
+[GameEndTime "2026-01-10T22:51:38.876 台北標準時間"]
+[GameStartTime "2026-01-10T22:50:57.940 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "60"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/20 1.1s} 2. Nxd5 Qxd5 {+3.81/22 1.6s} 3. Rb1 e5 {+5.07/20 1.0s}
+4. Ra1 Nf6 {+4.72/19 0.96s} 5. Rb1 Nc6 {+5.80/19 1.2s} 6. Ra1
+Bf5 {+5.05/21 4.2s} 7. Rb1 Be6 {+7.16/19 1.2s} 8. Ra1 Bc5 {+5.15/20 4.5s} 9. Rb1
+b5 {+6.89/19 0.69s} 10. Ra1 a6 {+5.13/21 4.9s} 11. Rb1 Qd6 {+6.52/17 0.56s}
+12. Ra1 O-O-O {+5.83/19 4.0s} 13. Rb1 Bxa2 {+7.02/17 0.56s} 14. Ra1
+Nb4 {+6.32/18 0.95s} 15. Rxa2 e4 {+6.68/19 0.92s} 16. Rxa6 Bxf2+ {+6.76/20 1.8s}
+17. Kxf2 e3+ {+6.96/21 1.3s} 18. dxe3 Ng4+ {+8.90/19 0.88s} 19. Kf3
+Qxd1 {+8.79/20 0.86s} 20. Kxg4 Kb7 {+9.42/21 1.8s} 21. Bd2 Nc6 {+9.42/20 0.88s}
+22. Rxc6 Rxd2 {+7.55/19 1.7s} 23. Rxc7+ Kxc7 {+7.33/20 0.85s} 24. Nh3
+h5+ {+7.84/19 0.66s} 25. Kg5 Qxc2 {+9.15/18 0.67s} 26. Rg1 Rd5+ {+M5/38 0.21s}
+27. Kh4 Qe4+ {+M15/45 0.30s} 28. g4 hxg4+ {+M7/31 0.30s} 29. Kg3
+Qxe3+ {+M9/40 0.31s} 30. Kxg4 f5# {+M1/245 0.035s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:45"]
+[GameEndTime "2026-01-10T22:51:47.132 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:01.331 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "85"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 2.9s} a6 2. d4 {+0.26/21 1.5s} a5 3. e4 {+0.83/19 0.62s} a4
+4. Nc3 {+1.06/19 2.0s} a3 5. bxa3 {+0.81/20 2.5s} Rxa3 6. Bxa3 {+5.51/19 0.46s}
+b6 7. Bd3 {+5.92/20 1.2s} b5 8. Nxb5 {+6.63/19 1.2s} c6 9. Nc3 {+5.92/21 3.2s}
+c5 10. Rb1 {+6.51/20 1.1s} cxd4 11. Nd5 {+6.63/20 1.5s} d6
+12. Bc1 {+8.44/20 0.62s} e6 13. Rxb8 {+7.42/20 1.7s} exd5
+14. Bb5+ {+8.02/19 1.6s} Bd7 15. Rxd8+ {+8.87/26 3.4s} Kxd8
+16. Bxd7 {+8.98/22 1.2s} Kxd7 17. Qxd4 {+9.00/23 1.7s} dxe4
+18. Qa4+ {+9.47/22 1.3s} Kd8 19. Ne2 {+9.37/22 2.0s} e3
+20. Qa8+ {+10.55/23 2.5s} Kd7 21. Bxe3 {+10.87/21 1.8s} d5
+22. Qa4+ {+M15/25 0.49s} Kd8 23. Qa5+ {+M19/25 1.00s} Kd7
+24. Qa4+ {+M31/26 0.31s} Kd8 25. Nf4 {+M19/25 2.0s} d4 26. Qa5+ {+M23/27 0.43s}
+Kd7 27. Qb5+ {+M43/33 0.29s} Kd8 28. Qa5+ {+M39/39 0.30s} Kd7
+29. Qa4+ {+M29/27 0.88s} Kd8 30. Qxd4+ {+M23/22 0.36s} Ke8
+31. Qa4+ {+M11/34 0.30s} Ke7 32. Qd4 {+M9/34 0.31s} Ke8 33. Nd5 {+M11/34 0.33s}
+f6 34. Nc7+ {+M19/21 0.99s} Ke7 35. Qc4 {+M7/43 0.32s} f5
+36. Nd5+ {+M9/41 0.30s} Ke8 37. Qa4+ {+M23/22 0.46s} Kd8 38. Bb6+ {+M7/37 0.31s}
+Kc8 39. Qc6+ {+M5/70 0.33s} Kb8 40. Qc7+ {+M3/245 0.10s} Ka8
+41. Qc6+ {+M1/245 0.018s} Kb8 42. Qc7+ {+M3/245 0.078s} Ka8
+43. Qc8# {+M1/245 0.020s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:11"]
+[GameEndTime "2026-01-10T22:51:33.289 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:21.883 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "16"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/20 1.1s} 2. Rb1 Nc6 {+0.74/17 0.53s} 3. Ra1
+Nf6 {+1.31/16 0.54s} 4. Rb1 d5 {+1.94/16 0.56s} 5. Nxd5 Qxd5 {+5.04/21 1.6s}
+6. Ra1 Bc5 {+4.98/21 5.8s} 7. Rb1 Ne4 {+6.51/16 0.38s} 8. Ra1
+Bxf2# {+M1/19 0.93s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A40"]
+[GameDuration "00:00:42"]
+[GameEndTime "2026-01-10T22:52:16.098 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:33.293 台北標準時間"]
+[Opening "Queen's pawn"]
+[PlyCount "63"]
+[TimeControl "50/50"]
+
+1. d4 {+0.31/21 3.0s} a6 2. e3 {+0.72/16 0.37s} a5 3. Nf3 {+0.87/18 1.0s} a4
+4. c4 {+1.55/17 1.2s} a3 5. b4 {+2.01/21 2.5s} b6 6. Nxa3 {+2.16/19 1.3s} Rxa3
+7. Bxa3 {+4.11/20 1.3s} b5 8. Bc1 {+4.97/18 0.55s} bxc4 9. Bb2 {+4.21/21 1.6s}
+c3 10. Bxc3 {+4.33/21 1.7s} c6 11. a4 {+4.86/20 2.1s} c5
+12. dxc5 {+5.73/19 1.2s} d6 13. Rc1 {+6.97/19 0.96s} dxc5
+14. Qxd8+ {+6.97/19 0.81s} Kxd8 15. Bb5 {+6.85/23 4.9s} cxb4
+16. Rd1+ {+8.84/18 0.51s} Nd7 17. Bb2 {+7.30/22 3.2s} b3
+18. Ne5 {+6.80/18 0.38s} e6 19. Ke2 {+7.19/20 1.0s} f6 20. Nc4 {+7.57/22 1.9s}
+e5 21. Rd3 {+6.84/18 0.58s} e4 22. Rd5 {+6.82/17 0.54s} f5
+23. Rhd1 {+7.94/20 1.4s} f4 24. exf4 {+10.07/18 0.50s} e3
+25. Nxe3 {+M21/20 0.50s} g6 26. Rxd7+ {+10.27/21 2.9s} Bxd7
+27. Rd3 {+10.68/20 1.1s} g5 28. Rxd7+ {+9.88/20 1.1s} Ke8
+29. Rb7+ {+M7/34 0.24s} Kd8 30. Nd5 {+11.28/23 2.2s} gxf4
+31. Rd7+ {+M1/50 0.20s} Ke8 32. Nc7# {+M1/245 0.015s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:49"]
+[GameEndTime "2026-01-10T22:52:28.228 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:38.879 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "88"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.03/17 1.1s} 2. Nxd5 Qxd5 {+3.72/21 1.4s} 3. Rb1 e5 {+4.90/20 1.1s}
+4. Ra1 Nc6 {+4.57/24 5.7s} 5. Rb1 Be7 {+6.06/17 0.37s} 6. Ra1
+Nf6 {+4.95/21 5.4s} 7. Rb1 b6 {+6.96/17 0.33s} 8. Ra1 O-O {+5.27/22 4.8s} 9. Rb1
+Rd8 {+7.26/17 0.46s} 10. Ra1 Qe6 {+6.15/20 3.0s} 11. Rb1 Qxa2 {+7.30/17 0.44s}
+12. Ra1 Qxa1 {+7.63/19 1.3s} 13. Nh3 Qa2 {+8.53/22 3.3s} 14. Rg1
+g6 {+8.65/20 1.2s} 15. Rh1 Qd5 {+8.53/20 1.4s} 16. Rg1 Nd4 {+8.16/20 2.3s}
+17. Rh1 Re8 {+9.22/19 0.60s} 18. Rg1 b5 {+8.57/19 2.3s} 19. Rh1
+a5 {+9.24/18 0.34s} 20. Rg1 Ra7 {+8.66/19 1.1s} 21. Rh1 Ra6 {+8.78/17 0.50s}
+22. Rg1 Qb7 {+8.62/18 0.79s} 23. Rh1 a4 {+9.02/19 0.94s} 24. Rg1
+c5 {+8.89/19 1.9s} 25. Rh1 Nc6 {+9.35/21 1.1s} 26. Rg1 b4 {+8.56/16 0.92s}
+27. Rh1 Rb6 {+8.52/19 1.0s} 28. Rg1 e4 {+8.57/18 0.87s} 29. Rh1
+h6 {+8.96/17 0.30s} 30. Rg1 e3 {+8.78/17 0.79s} 31. dxe3 a3 {+9.01/20 0.62s}
+32. bxa3 bxa3 {+9.48/17 0.15s} 33. Bxa3 Bg4 {+10.95/20 0.46s} 34. Bxc5
+Bxh3 {+M21/18 0.22s} 35. Bxb6 Be6 {+11.91/17 0.13s} 36. Qd2
+Bf5 {+10.42/18 0.29s} 37. Kd1 Ne4 {+12.89/14 0.023s} 38. Ke1
+Be6 {+M11/13 0.012s} 39. Kd1 g5 {+M11/14 0.015s} 40. Ke1 Rb8 {+M11/16 0.034s}
+41. Kd1 Qa6 {+M7/16 0.044s} 42. Ke1 Bb4 {+M5/13 0.017s} 43. Qxb4
+Qa1+ {+M3/15 0.017s} 44. Qb1 Qxb1# {+M1/38 0.007s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A00"]
+[GameDuration "00:00:14"]
+[GameEndTime "2026-01-10T22:51:59.461 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:44.581 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "19"]
+[Termination "illegal move"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.1s} a6 2. Nf3 {+0.19/21 1.5s} a5 3. a3 {+0.86/17 0.42s} a4
+4. c4 {+1.35/20 1.6s} b6 5. Nc3 {+1.80/18 0.75s} b5 6. b4 {+3.66/18 0.60s} axb3
+7. cxb5 {+2.40/19 1.5s} Rxa3 8. Rxa3 {+6.03/20 1.6s} b2 9. Bc4 {+5.97/19 1.8s}
+bxc1=Q 10. Qxc1 {+3.35/22 2.1s, Black makes an illegal move: b2c1q} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "0-1"]
+[ECO "A00"]
+[GameDuration "00:00:41"]
+[GameEndTime "2026-01-10T22:52:28.508 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:47.137 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "60"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.11/18 1.1s} 2. Rb1 c5 {+0.42/15 0.66s} 3. Ra1 e5 {+1.09/16 0.51s}
+4. Rb1 Nc6 {+1.55/16 0.61s} 5. Ra1 Be7 {+2.17/16 0.57s} 6. Rb1
+d5 {+2.66/18 0.64s} 7. Nxd5 Nxd5 {+5.42/21 1.9s} 8. Ra1 O-O {+5.53/21 6.2s}
+9. Rb1 e4 {+5.74/20 2.8s} 10. Ra1 Bd6 {+6.09/18 1.7s} 11. Rb1
+Re8 {+6.14/20 2.6s} 12. Ra1 Ne5 {+6.37/17 0.92s} 13. Rb1 Qc7 {+6.46/19 4.5s}
+14. Ra1 Qa5 {+6.69/17 1.1s} 15. Rb1 Be6 {+7.45/19 1.3s} 16. Ra1
+c4 {+7.57/18 0.64s} 17. Rb1 Bc7 {+8.08/16 0.32s} 18. Ra1 Rab8 {+8.24/20 2.2s}
+19. Rb1 e3 {+8.26/21 1.4s} 20. fxe3 Rbd8 {+8.94/21 0.81s} 21. Ra1
+Nxe3 {+9.49/20 1.3s} 22. Rb1 Nxd1 {+11.49/20 0.94s} 23. Kxd1 h5 {+11.87/20 1.4s}
+24. Ra1 Rxd2+ {+M15/21 0.57s} 25. Bxd2 Qd5 {+M13/21 1.2s} 26. Rb1
+Qb5 {+M7/22 0.69s} 27. Rc1 Qd5 {+10.26/19 0.92s} 28. Rb1 Qd7 {+M7/21 0.62s}
+29. Rc1 Rd8 {+M7/24 1.0s} 30. Rb1 Qxd2# {+M1/98 0.30s, Black mates} 0-1
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "B00"]
+[GameDuration "00:00:39"]
+[GameEndTime "2026-01-10T22:52:39.021 台北標準時間"]
+[GameStartTime "2026-01-10T22:51:59.465 台北標準時間"]
+[Opening "St. George (Baker) defense"]
+[PlyCount "49"]
+[TimeControl "50/50"]
+
+1. e4 {+0.31/22 3.3s} a6 2. d4 {+0.75/19 0.97s} a5 3. Bd3 {+1.43/17 0.83s} a4
+4. Nc3 {+1.48/17 1.0s} a3 5. Qe2 {+1.43/21 5.0s} axb2 6. Bxb2 {+1.11/21 1.2s}
+Rxa2 7. Nxa2 {+5.60/21 3.3s} b6 8. Nf3 {+5.84/20 1.4s} b5 9. Kf1 {+6.37/18 1.2s}
+b4 10. d5 {+5.84/21 3.8s} b3 11. g3 {+6.02/22 3.4s} bxa2 12. c4 {+5.27/19 1.1s}
+c6 13. Rxa2 {+4.90/19 2.4s} cxd5 14. cxd5 {+5.32/19 0.84s} d6
+15. Bb5+ {+6.53/20 1.3s} Nd7 16. Ra8 {+7.70/20 1.7s} e6 17. dxe6 {+8.65/20 1.3s}
+fxe6 18. Kg2 {+8.47/19 0.80s} d5 19. exd5 {+10.18/20 0.87s} e5
+20. Qxe5+ {+M23/20 0.63s} Qe7 21. Qxe7+ {+M11/27 1.00s} Kxe7
+22. Re1+ {+9.81/20 0.89s} Ne5 23. Ra7+ {+M13/22 0.30s} Kd8
+24. Nxe5 {+M11/25 0.83s} g6 25. Nc6# {+M1/54 0.28s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:38"]
+[GameEndTime "2026-01-10T22:52:54.107 台北標準時間"]
+[GameStartTime "2026-01-10T22:52:16.101 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "37"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 Nf6 {+0.10/19 1.2s} 2. Rb1 e5 {+0.50/19 1.2s} 3. Ra1 d5 {+1.32/16 0.52s}
+4. Nxd5 Qxd5 {+4.51/20 1.5s} 5. Rb1 Be6 {+5.92/20 1.1s} 6. Ra1
+Be7 {+5.09/22 5.2s} 7. Rb1 a5 {+6.74/17 0.40s} 8. Ra1 a4 {+5.66/20 4.5s} 9. Rb1
+O-O {+7.16/18 0.88s} 10. Ra1 Qd8 {+6.17/19 3.1s} 11. Rb1 Nbd7 {+6.70/17 0.35s}
+12. Ra1 h5 {+6.19/19 4.5s} 13. Rb1 b5 {+6.47/18 1.2s} 14. Ra1 h4 {+5.99/18 3.8s}
+15. Rb1 Bxa2 {+6.08/17 1.8s} 16. Ra1 Be6 {+6.00/20 3.1s} 17. Rxa4
+bxa4 {+7.03/20 2.6s} 18. Nh3 Rb8 {+7.34/17 0.42s} 19. Rg1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "1-0"]
+[ECO "A10"]
+[GameDuration "00:00:23"]
+[GameEndTime "2026-01-10T22:52:51.889 台北標準時間"]
+[GameStartTime "2026-01-10T22:52:28.233 台北標準時間"]
+[Opening "English Opening"]
+[PlyCount "29"]
+[TimeControl "50/50"]
+
+1. c4 {+0.31/22 3.3s} a6 2. d4 {+0.42/20 1.5s} a5 3. Nc3 {+1.23/20 0.86s} a4
+4. e4 {+1.53/18 1.0s} a3 5. b3 {+1.27/19 2.4s} b6 6. Bd3 {+1.48/18 1.7s} b5
+7. Nge2 {+2.74/18 0.83s} bxc4 8. Bxc4 {+1.84/22 2.2s} c6 9. b4 {+1.93/18 1.1s}
+c5 10. dxc5 {+3.91/19 1.5s} d6 11. Qd5 {+5.58/18 0.37s} dxc5
+12. Qxf7+ {+11.79/21 1.6s} Kd7 13. Bf4 {+13.08/25 4.4s} cxb4
+14. Bb5+ {+M3/73 0.32s} Nc6 15. Rd1# {+M1/35 0.46s, White mates} 1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:25"]
+[GameEndTime "2026-01-10T22:52:54.107 台北標準時間"]
+[GameStartTime "2026-01-10T22:52:28.511 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "29"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 d5 {+0.11/18 1.1s} 2. Nxd5 Qxd5 {+3.50/21 1.4s} 3. Rb1
+Qxa2 {+5.01/20 1.0s} 4. Ra1 Qxa1 {+6.07/21 1.6s} 5. Nh3 c6 {+6.62/21 1.7s}
+6. Rg1 e5 {+6.66/21 2.4s} 7. Rh1 Nf6 {+7.39/21 1.9s} 8. Rg1 h6 {+7.43/21 1.9s}
+9. Rh1 Qa2 {+7.54/21 3.8s} 10. Rg1 Na6 {+7.61/18 0.98s} 11. Rh1
+Be6 {+7.89/18 0.99s} 12. Rg1 g6 {+8.72/20 1.9s} 13. Rh1 Qa5 {+8.26/19 1.1s}
+14. Rg1 Bg7 {+8.45/19 2.1s} 15. Rh1 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:15"]
+[GameEndTime "2026-01-10T22:52:54.107 台北標準時間"]
+[GameStartTime "2026-01-10T22:52:39.025 台北標準時間"]
+[Opening "Van't Kruijs Opening"]
+[PlyCount "18"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. e3 {+0.31/22 3.1s} a6 2. Nf3 {+0.19/21 1.5s} a5 3. a3 {+0.86/17 0.47s} a4
+4. Nc3 {+1.40/17 1.2s} b6 5. Bd3 {+1.60/19 1.9s} b5 6. b3 {+2.85/18 0.39s} axb3
+7. Nxb5 {+0.70/20 3.1s} bxc2 8. Qe2 {+0.62/19 1.6s} Rxa3 9. Bxa3 {+5.37/20 1.4s}
+c1=Q+ {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:00:02"]
+[GameEndTime "2026-01-10T22:52:54.107 台北標準時間"]
+[GameStartTime "2026-01-10T22:52:51.893 台北標準時間"]
+[Opening "Dunst (Sleipner-Heinrichsen) Opening"]
+[PlyCount "5"]
+[Termination "unterminated"]
+[TimeControl "50/50"]
+
+1. Nc3 e5 {+0.11/18 1.1s} 2. Rb1 Nc6 {+0.76/16 0.53s} 3. Ra1 {No result} *
+

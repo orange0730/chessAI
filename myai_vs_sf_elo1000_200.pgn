@@ -1,0 +1,68 @@
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:03:10"]
+[GameEndTime "2026-01-10T19:28:10.027 台北標準時間"]
+[GameStartTime "2026-01-10T19:24:59.777 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "1"]
+[Termination "unterminated"]
+[TimeControl "inf"]
+
+1. Nc3 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[GameDuration "00:03:10"]
+[GameEndTime "2026-01-10T19:28:10.027 台北標準時間"]
+[GameStartTime "2026-01-10T19:24:59.783 台北標準時間"]
+[PlyCount "0"]
+[Termination "unterminated"]
+[TimeControl "inf"]
+
+{No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "MyAI"]
+[Black "SF"]
+[Result "*"]
+[ECO "A00"]
+[GameDuration "00:03:10"]
+[GameEndTime "2026-01-10T19:28:10.027 台北標準時間"]
+[GameStartTime "2026-01-10T19:24:59.782 台北標準時間"]
+[Opening "Dunst (Sleipner, Heinrichsen) Opening"]
+[PlyCount "1"]
+[Termination "unterminated"]
+[TimeControl "inf"]
+
+1. Nc3 {No result} *
+
+[Event "?"]
+[Site "?"]
+[Date "2026.01.10"]
+[Round "1"]
+[White "SF"]
+[Black "MyAI"]
+[Result "*"]
+[GameDuration "00:03:10"]
+[GameEndTime "2026-01-10T19:28:10.027 台北標準時間"]
+[GameStartTime "2026-01-10T19:24:59.777 台北標準時間"]
+[PlyCount "0"]
+[Termination "unterminated"]
+[TimeControl "inf"]
+
+{No result} *
+
