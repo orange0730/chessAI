@@ -8,6 +8,7 @@
 #include <fstream>
 #include <sstream>
 #include <cstdint>
+#include <chrono>
 
 enum Piece : int {
     EMPTY = 0,
@@ -618,6 +619,15 @@ struct Position {
 struct Engine {
     Weights w;
 
+    // --- time control (for UCI go wtime/btime/movetime) ---
+    bool useTime = false;
+    std::chrono::steady_clock::time_point endTime;
+
+    inline bool timeUp() const {
+        if(!useTime) return false;
+        return std::chrono::steady_clock::now() >= endTime;
+    }
+
     int eval(const Position& pos) const{
         double score=0;
         for(int sq=0;sq<64;sq++){
@@ -650,6 +660,7 @@ struct Engine {
     }
 
     int alphabeta(Position& pos, int depth, int alpha, int beta){
+        if(timeUp()) return eval(pos) * (pos.whiteToMove ? 1 : -1);
         if(depth<=0) return eval(pos) * (pos.whiteToMove ? 1 : -1);
 
         std::vector<Move> moves;
@@ -689,6 +700,8 @@ struct Engine {
         Move best=moves[0];
 
         for(const auto& m : moves){
+            if(timeUp()) break;
+
             Position p2 = pos;
             Undo u;
             p2.makeMove(m, u);

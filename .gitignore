@@ -1,0 +1,26 @@
+# Build artifacts
+build/
+*.obj
+*.obj.d
+*.a
+*.exe
+
+# Training outputs / logs
+logs_*/
+checkpoint.bin
+
+# Weights (generated)
+weights.txt
+weights_ckpt.txt
+weights_tmp.txt
+weights_trained.txt
+
+# PGN outputs (optional)
+*.pgn
+
+# Editor
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

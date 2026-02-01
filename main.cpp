@@ -37,6 +37,10 @@ static char normPromoChar(char c){
 // ============================
 // UCI move 解析 / 輸出（不靠外部函式）
 // ============================
+// 注意：這裡用「寬鬆解析」
+// - 外部（cutechess/GUI）送來的 moves 本來就應該是合法棋譜
+// - 若我們用自己的 genLegalMoves 去驗證，任何規則 bug 都會造成同步失敗，後面就整盤飄掉
+// 需要嚴格合法性時，請在我們自己決策（go/bestmove）階段用 genLegalMoves 控制。
 static bool parseUciMoveLocal(Position& pos, const std::string& uci, Move& out){
     if(uci.size() < 4) return false;
 
@@ -52,23 +56,22 @@ static bool parseUciMoveLocal(Position& pos, const std::string& uci, Move& out){
     char promo = 0;
     if(uci.size() >= 5) promo = normPromoChar(uci[4]);
 
-    std::vector<Move> moves;
-    pos.genLegalMoves(moves);
+    Move m;
+    m.from = from;
+    m.to   = to;
+    m.captured = pos.b[to];
 
-    for(const auto& m : moves){
-        if(m.from == from && m.to == to){
-            if(promo == 0){
-                out = m;
-                return true;
-            }else{
-                if(std::tolower((unsigned char)m.promo) == promo){
-                    out = m;
-                    return true;
-                }
-            }
-        }
+    if(promo){
+        // UCI promotion 字元只會出現在兵升變
+        bool wtm = pos.whiteToMove;
+        if(promo=='q') m.promo = wtm ? WQ : BQ;
+        else if(promo=='r') m.promo = wtm ? WR : BR;
+        else if(promo=='b') m.promo = wtm ? WB : BB;
+        else if(promo=='n') m.promo = wtm ? WN : BN;
     }
-    return false;
+
+    out = m;
+    return true;
 }
 
 static char promoToChar(Piece p){
@@ -86,12 +89,10 @@ static std::string moveToUciLocal(const Move& m){
 
     // 只有真的升變步才加第 5 碼
     char pc = promoToChar(m.promo);
-    if(pc) s += pc;
-    int toRank = m.to / 8;
     if(pc){
-        // 必須是兵升變：白到第 8 排 or 黑到第 1 排
-        if(!(toRank == 7 || toRank == 0)){
-            pc = 0; // 不合理就不輸出 promo
+        int toRank = m.to / 8;
+        if(toRank == 7 || toRank == 0){
+            s += pc;
         }
     }
 
@@ -265,14 +266,60 @@ static void runUCI() {
         }
         else if (line.rfind("go", 0) == 0) {
             int depth = 4;
+            long long wtime=-1, btime=-1, winc=0, binc=0, movetime=-1;
+            int movestogo = -1;
+
             std::stringstream ss(line);
             std::string tok;
             ss >> tok;
             while (ss >> tok) {
                 if (tok == "depth") ss >> depth;
+                else if (tok == "wtime") ss >> wtime;
+                else if (tok == "btime") ss >> btime;
+                else if (tok == "winc") ss >> winc;
+                else if (tok == "binc") ss >> binc;
+                else if (tok == "movetime") ss >> movetime;
+                else if (tok == "movestogo") ss >> movestogo;
             }
 
-            Move bm = engine.bestMove(pos, depth, 0.0, nullptr);
+            // --- time management ---
+            engine.useTime = false;
+            if (movetime > 0) {
+                engine.useTime = true;
+                engine.endTime = std::chrono::steady_clock::now() + std::chrono::milliseconds(movetime);
+            } else if (wtime >= 0 && btime >= 0) {
+                long long remain = pos.whiteToMove ? wtime : btime;
+                long long inc    = pos.whiteToMove ? winc  : binc;
+
+                // 估計剩餘步數：若 GUI 沒給 movestogo，用 25 當快棋保守值
+                int mtg = (movestogo > 0) ? movestogo : 25;
+
+                // 基本配額：剩餘時間 / mtg，再加上一點 increment
+                long long budget = remain / mtg + (inc * 8) / 10;
+
+                // 安全上下限（避免一次花光/也避免太小）
+                long long minBudget = 50;
+                long long maxBudget = std::max(200LL, remain / 2);
+                if (budget < minBudget) budget = minBudget;
+                if (budget > maxBudget) budget = maxBudget;
+
+                engine.useTime = true;
+                engine.endTime = std::chrono::steady_clock::now() + std::chrono::milliseconds(budget);
+            }
+
+            // --- iterative deepening ---
+            Move bm;
+            int maxDepth = depth;
+            if (engine.useTime && maxDepth < 64) maxDepth = 64; // 時間制下盡量往下搜，會在 timeUp() 自動停
+
+            for (int d = 1; d <= maxDepth; d++) {
+                Move cand = engine.bestMove(pos, d, 0.0, nullptr);
+                // 若 timeUp，bestMove 可能提前 break；仍保留上一層結果
+                if (!engine.useTime || !engine.timeUp()) {
+                    bm = cand;
+                }
+                if (engine.useTime && engine.timeUp()) break;
+            }
 
             // ===== 保證 bm 一定在合法棋清單內 =====
             std::vector<Move> legal;

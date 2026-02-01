@@ -19,8 +19,8 @@ static int playGame(Engine white, Engine black, int depth, int maxPlies, std::mt
   Position pos;
   pos.setStartPos();
 
-  const int RANDOM_OPENING_PLIES = 4; // 破對稱
-  double eps = 0.15;                  // 探索
+  const int RANDOM_OPENING_PLIES = 8; // 破對稱（多一點開局隨機，避免學到單一路線）
+  double eps = 0.10;                  // 探索（稍微降噪）
 
   for(int plies=0; plies<maxPlies; plies++){
     std::vector<Move> moves;
@@ -44,9 +44,10 @@ static int playGame(Engine white, Engine black, int depth, int maxPlies, std::mt
     pos.makeMove(m, u);
 
     // 提早裁決：eval 差距大就判勝負（加速）
+    // 門檻設太低會讓訓練「鑽評估函數漏洞」而不是把棋下到結束。
     int sc = white.eval(pos); // 白方視角
-    if (sc > 200) return +1;
-    if (sc < -200) return -1;
+    if (sc > 600) return +1;
+    if (sc < -600) return -1;
 
 
     eps *= 0.997;
@@ -54,9 +55,8 @@ static int playGame(Engine white, Engine black, int depth, int maxPlies, std::mt
 
   // 走滿：用 eval 裁決
   int sc = white.eval(pos);
-    if (sc > 30) return +1;
-    if (sc < -30) return -1;
-
+  if (sc > 80) return +1;
+  if (sc < -80) return -1;
 
   return 0;
 }
@@ -202,8 +202,8 @@ int main(int argc, char** argv){
   if(argc >= 5) verifyGames  = std::atoi(argv[4]);
 
   // 長跑額外參數（可直接改這裡）
-  const int PRINT_EVERY       = 20;   // 每 20 iter 印一次
-  const int CHECKPOINT_EVERY  = 50;   // 每 50 iter 存一次 current checkpoint
+  const int PRINT_EVERY       = 5;    // 每 5 iter 印一次（方便監控）
+  const int CHECKPOINT_EVERY  = 10;   // 每 10 iter 存一次 checkpoint（方便續跑/監控）
   
   const int MAX_PLIES         = 220;
 
@@ -268,8 +268,12 @@ int main(int argc, char** argv){
     Weights wMinus = ParamView::unflatten(xMinus, base);
 
     // 差分：兩邊都算（比較穩）
-    double sPlus  = matchScore(wPlus,  wMinus, gamesPerEval, depth, rng);
-    double sMinus = matchScore(wMinus, wPlus,  gamesPerEval, depth, rng);
+    // 重要：用「同一份隨機序列」去比 wPlus/wMinus，能大幅降低雜訊（Common Random Numbers）。
+    // 否則 SPSA 會因為隨機開局/epsilon 的噪音而抖很大。
+    auto rngPlus  = rng;
+    auto rngMinus = rng;
+    double sPlus  = matchScore(wPlus,  wMinus, gamesPerEval, depth, rngPlus);
+    double sMinus = matchScore(wMinus, wPlus,  gamesPerEval, depth, rngMinus);
     double yDiff = sPlus - sMinus;
 
     for(size_t i=0;i<x.size();i++){
@@ -278,7 +282,8 @@ int main(int argc, char** argv){
     }
 
     Weights current = ParamView::unflatten(x, base);
-    double scoreVsBase = matchScore(current, base, gamesPerEval, depth, rng);
+    auto rngScore = rng;
+    double scoreVsBase = matchScore(current, base, gamesPerEval, depth, rngScore);
 
     if((k+1) % PRINT_EVERY == 0 || k==0){
       std::cout << "iter " << (k+1)
@@ -290,16 +295,20 @@ int main(int argc, char** argv){
                 << " ck="<<ck
                 << " x0="<<std::setprecision(3)<<x[0]
                 << "\n";
+      std::cout.flush();
     }
 
     // checkpoint: 讓你睡覺也不怕當機
     if((k+1) % CHECKPOINT_EVERY == 0){
       saveCheckpoint("checkpoint.bin", x);
+      std::cout << "[checkpoint] iter=" << (k+1) << " saved\n";
+      std::cout.flush();
     }
 
     // best：先 verify 再存，避免噪音亂存
     if(scoreVsBase > bestScore){
-      double verify = matchScore(current, base, verifyGames, depth, rng);
+      auto rngVerify = rng;
+      double verify = matchScore(current, base, verifyGames, depth, rngVerify);
       if(verify > bestScore){
         bestScore = verify;
         bestX = x;
@@ -315,6 +324,7 @@ int main(int argc, char** argv){
                   <<","<<bestW.material[3]<<","<<bestW.material[4]<<"] "
                   << "pstPawn(min,max)=("<<pMn<<","<<pMx<<") "
                   << "pstKnight(min,max)=("<<nMn<<","<<nMx<<")\n";
+        std::cout.flush();
       }
     }
   }
@@ -323,5 +333,6 @@ int main(int argc, char** argv){
   saveCheckpoint("checkpoint.bin", x);
 
   std::cout << "Training done. Best scoreVsBase="<<std::fixed<<std::setprecision(3)<<bestScore<<"\n";
+  std::cout.flush();
   return 0;
 }
